@@ -1,0 +1,30 @@
+{
+  "name": "@aapelix/pixels",
+  "version": "1.0.3",
+  "description": "Lucide icons but pixel art",
+  "main": "dist/index.mjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.mts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.20",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  },
+  "keywords": [
+    "icon",
+    "icons",
+    "pixel art",
+    "pixels"
+  ],
+  "author": "aapelix",
+  "license": "ISC"
+}
