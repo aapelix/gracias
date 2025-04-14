@@ -45,7 +45,7 @@ const ${componentName} = React.forwardRef<SVGSVGElement, ${interfaceName}>(
       xmlns="http://www.w3.org/2000/svg"
       width="1em"
       height="1em"
-      viewBox="0 0 24 24"
+      viewBox="0 0 12 12"
       fill="currentColor"
       shapeRendering="crispEdges"
       ref={ref}
@@ -89,12 +89,12 @@ function addViewBoxToSvg(content) {
   const svgTagMatch = content.match(/<svg([^>]*)>/);
   if (svgTagMatch) {
     if (!svgTagMatch[1].includes("viewBox")) {
-      content = content.replace("<svg", '<svg viewBox="0 0 24 24"');
+      content = content.replace("<svg", '<svg viewBox="0 0 12 12"');
     }
   }
   return content;
 }
 
-const iconsDirectory = "../tempIcons/";
+const iconsDirectory = "../src/12";
 
 convertIcons(iconsDirectory);

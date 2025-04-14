@@ -1,6 +1,6 @@
 {
   "name": "@aapelix/pixels",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Lucide icons but pixel art",
   "main": "dist/index.mjs",
   "module": "dist/index.mjs",
