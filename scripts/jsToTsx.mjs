@@ -3,7 +3,7 @@ import { join, extname } from "path";
 
 const targetDir = "./24";
 
-async function renameJsToTsx(dir) {
+export async function renameJsToTsx(dir) {
   const files = await readdir(dir, { withFileTypes: true });
 
   for (const file of files) {

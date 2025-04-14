@@ -1,12 +1,12 @@
 import fs from "fs/promises";
 import path from "path";
 
-async function convertIcons(directoryPath) {
+export async function convertIcons(directoryPath) {
   try {
     const files = await fs.readdir(directoryPath);
     const iconFiles = files.filter((file) => file.endsWith(".tsx"));
 
-    console.log(`Found ${iconFiles.length} .tsx files.`); // Log the number of .tsx files
+    console.log(`Found ${iconFiles.length} .tsx files.`);
 
     for (const file of iconFiles) {
       const filePath = path.join(directoryPath, file);
@@ -95,6 +95,6 @@ function addViewBoxToSvg(content) {
   return content;
 }
 
-const iconsDirectory = "./24";
+const iconsDirectory = "../tempIcons/";
 
 convertIcons(iconsDirectory);
