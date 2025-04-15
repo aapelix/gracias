@@ -1,24 +1,22 @@
 import { readdir, writeFile } from "fs/promises";
 import { basename } from "path";
 
-const iconFolder12 = "./12";
-const iconFolder24 = "./24";
-const outputFile = "./index.tsx";
+import path from "path";
+import { getCurrentDirPath } from "../tools/build-helpers/helpers.mjs";
 
-const files = (await readdir(iconFolder12)).filter((f) => f.endsWith(".tsx"));
-const files24 = (await readdir(iconFolder24)).filter((f) => f.endsWith(".tsx"));
+const currentDir = getCurrentDirPath(import.meta.url);
+const ICONS_DIR = path.resolve(currentDir, "../src/icons");
+const outputFile = path.resolve(currentDir, "../src/index.tsx");
 
-const exports = files.map((file) => {
-  const name = basename(file, ".tsx");
-  return `export { default as ${name.replace(/\.tsx$/, "")}12 } from "./12/${name}";`;
-});
+export async function generateImports() {
+  const files = (await readdir(ICONS_DIR)).filter((f) => f.endsWith(".tsx"));
 
-const exports24 = files24.map((file) => {
-  const name = basename(file, ".tsx");
-  return `export { default as ${name.replace(/\.tsx$/, "")}24 } from "./24/${name}";`;
-});
+  const exports = files.map((file) => {
+    const name = basename(file, ".tsx");
+    return `export { default as ${name.replace(/\.tsx$/, "")} } from "./icons/${name}";`;
+  });
 
-await writeFile(outputFile, exports.join("\n") + "\n", { flag: "w" });
-await writeFile(outputFile, exports24.join("\n") + "\n", { flag: "a" });
+  await writeFile(outputFile, exports.join("\n") + "\n", { flag: "w" });
 
-console.log("index.tsx generated.");
+  console.log("index.tsx generated.");
+}

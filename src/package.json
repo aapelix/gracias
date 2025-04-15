@@ -1,12 +1,12 @@
 {
-  "name": "@aapelix/pixels",
-  "version": "1.0.7",
+  "name": "gracias-react",
+  "version": "0.0.8",
   "description": "Lucide icons but pixel art",
   "main": "dist/index.mjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.mts",
   "scripts": {
-    "build": "tsup"
+    "build": "node ./scripts/generateIcons.mjs && tsup"
   },
   "files": [
     "dist"
@@ -20,10 +20,13 @@
     "typescript": "^5.8.3"
   },
   "keywords": [
-    "icon",
-    "icons",
-    "pixel art",
-    "pixels"
+    "Lucide",
+    "Icon",
+    "Icons",
+    "Pixel Art",
+    "Pixel",
+    "Feather",
+    "React"
   ],
   "author": "aapelix",
   "license": "ISC"

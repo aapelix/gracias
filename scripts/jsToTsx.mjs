@@ -1,8 +1,6 @@
 import { readdir, rename } from "fs/promises";
 import { join, extname } from "path";
 
-const targetDir = "./24";
-
 export async function renameJsToTsx(dir) {
   const files = await readdir(dir, { withFileTypes: true });
 
@@ -17,5 +15,3 @@ export async function renameJsToTsx(dir) {
     }
   }
 }
-
-renameJsToTsx(targetDir).catch(console.error);

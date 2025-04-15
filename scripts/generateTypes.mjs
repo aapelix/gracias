@@ -94,7 +94,3 @@ function addViewBoxToSvg(content) {
   }
   return content;
 }
-
-const iconsDirectory = "../src/12";
-
-convertIcons(iconsDirectory);
