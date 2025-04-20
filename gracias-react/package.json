@@ -1,6 +1,6 @@
 {
   "name": "gracias-react",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Lucide icons but pixel art",
   "main": "dist/index.mjs",
   "module": "dist/index.mjs",
