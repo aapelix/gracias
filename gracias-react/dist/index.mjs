@@ -10876,9 +10876,9 @@ var SvgDumbbell = React518.forwardRef(
 SvgDumbbell.displayName = "SvgDumbbell";
 var Dumbbell_default = SvgDumbbell;
 
-// icons/Ellipsis.tsx
+// icons/Ear.tsx
 import * as React519 from "react";
-var SvgEllipsis = React519.forwardRef(
+var SvgEar = React519.forwardRef(
   (props, ref) => /* @__PURE__ */ React519.createElement(
     "svg",
     {
@@ -10891,15 +10891,15 @@ var SvgEllipsis = React519.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React519.createElement("path", { d: "M2 5h1v1H2zM3 5h1v1H3zM5 5h1v1H5zM6 5h1v1H6zM8 5h1v1H8zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM5 6h1v1H5zM6 6h1v1H6zM8 6h1v1H8zM9 6h1v1H9z" })
+    /* @__PURE__ */ React519.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM3 2h1v1H3zM7 2h1v1H7zM2 3h1v1H2zM5 3h1v1H5zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM6 4h1v1H6zM8 4h1v1H8zM4 5h1v1H4zM8 5h1v1H8zM5 6h1v1H5zM7 6h1v1H7zM4 7h1v1H4zM7 7h1v1H7zM2 8h1v1H2zM6 8h1v1H6zM2 9h1v1H2zM6 9h1v1H6zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5z" })
   )
 );
-SvgEllipsis.displayName = "SvgEllipsis";
-var Ellipsis_default = SvgEllipsis;
+SvgEar.displayName = "SvgEar";
+var Ear_default = SvgEar;
 
-// icons/Expand.tsx
+// icons/EarOff.tsx
 import * as React520 from "react";
-var SvgExpand = React520.forwardRef(
+var SvgEarOff = React520.forwardRef(
   (props, ref) => /* @__PURE__ */ React520.createElement(
     "svg",
     {
@@ -10912,15 +10912,15 @@ var SvgExpand = React520.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React520.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM8 1h1v1H8zM9 1h1v1H9zM10 1h1v1h-1zM1 2h1v1H1zM2 2h1v1H2zM9 2h1v1H9zM10 2h1v1h-1zM1 3h1v1H1zM3 3h1v1H3zM8 3h1v1H8zM10 3h1v1h-1zM4 4h1v1H4zM7 4h1v1H7zM4 7h1v1H4zM7 7h1v1H7zM1 8h1v1H1zM3 8h1v1H3zM8 8h1v1H8zM10 8h1v1h-1zM1 9h1v1H1zM2 9h1v1H2zM9 9h1v1H9zM10 9h1v1h-1zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
+    /* @__PURE__ */ React520.createElement("path", { d: "M1 1h1v1H1zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM3 3h1v1H3zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM8 4h1v1H8zM4 5h1v1H4zM5 5h1v1H5zM8 5h1v1H8zM5 6h1v1H5zM6 6h1v1H6zM4 7h1v1H4zM7 7h1v1H7zM2 8h1v1H2zM6 8h1v1H6zM8 8h1v1H8zM2 9h1v1H2zM6 9h1v1H6zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM10 10h1v1h-1z" })
   )
 );
-SvgExpand.displayName = "SvgExpand";
-var Expand_default = SvgExpand;
+SvgEarOff.displayName = "SvgEarOff";
+var EarOff_default = SvgEarOff;
 
-// icons/FileCode2.tsx
+// icons/Earth.tsx
 import * as React521 from "react";
-var SvgFileCode2 = React521.forwardRef(
+var SvgEarth = React521.forwardRef(
   (props, ref) => /* @__PURE__ */ React521.createElement(
     "svg",
     {
@@ -10933,15 +10933,15 @@ var SvgFileCode2 = React521.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React521.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM5 2h1v1H5zM7 2h1v1H7zM2 3h1v1H2zM5 3h1v1H5zM8 3h1v1H8zM2 4h1v1H2zM5 4h1v1H5zM9 4h1v1H9zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM9 6h1v1H9zM1 7h1v1H1zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM9 8h1v1H9zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+    /* @__PURE__ */ React521.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM3 2h1v1H3zM4 2h1v1H4zM8 2h1v1H8zM2 3h1v1H2zM4 3h1v1H4zM9 3h1v1H9zM1 4h1v1H1zM5 4h1v1H5zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM10 4h1v1h-1zM1 5h1v1H1zM2 5h1v1H2zM6 5h1v1H6zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM8 6h1v1H8zM9 6h1v1H9zM10 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM4 7h1v1H4zM7 7h1v1H7zM10 7h1v1h-1zM2 8h1v1H2zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM3 9h1v1H3zM5 9h1v1H5zM7 9h1v1H7zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
   )
 );
-SvgFileCode2.displayName = "SvgFileCode2";
-var FileCode2_default = SvgFileCode2;
+SvgEarth.displayName = "SvgEarth";
+var Earth_default = SvgEarth;
 
-// icons/Github.tsx
+// icons/EarthLock.tsx
 import * as React522 from "react";
-var SvgGithub = React522.forwardRef(
+var SvgEarthLock = React522.forwardRef(
   (props, ref) => /* @__PURE__ */ React522.createElement(
     "svg",
     {
@@ -10954,15 +10954,15 @@ var SvgGithub = React522.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React522.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM9 1h1v1H9zM10 1h1v1h-1zM1 2h1v1H1zM3 2h1v1H3zM8 2h1v1H8zM10 2h1v1h-1zM1 3h1v1H1zM2 3h1v1H2zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM9 3h1v1H9zM10 3h1v1h-1zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM2 7h1v1H2zM9 7h1v1H9zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM1 9h1v1H1zM4 9h1v1H4zM7 9h1v1H7zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM7 10h1v1H7zM4 11h1v1H4zM7 11h1v1H7z" })
+    /* @__PURE__ */ React522.createElement("path", { d: "M8 0h1v1H8zM10 0h1v1h-1zM4 1h1v1H4zM5 1h1v1H5zM8 1h1v1H8zM9 1h1v1H9zM10 1h1v1h-1zM3 2h1v1H3zM4 2h1v1H4zM7 2h1v1H7zM11 2h1v1h-1zM2 3h1v1H2zM4 3h1v1H4zM7 3h1v1H7zM11 3h1v1h-1zM1 4h1v1H1zM5 4h1v1H5zM8 4h1v1H8zM9 4h1v1H9zM10 4h1v1h-1zM1 5h1v1H1zM2 5h1v1H2zM1 6h1v1H1zM3 6h1v1H3zM8 6h1v1H8zM9 6h1v1H9zM10 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM4 7h1v1H4zM7 7h1v1H7zM10 7h1v1h-1zM2 8h1v1H2zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM3 9h1v1H3zM5 9h1v1H5zM7 9h1v1H7zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
   )
 );
-SvgGithub.displayName = "SvgGithub";
-var Github_default = SvgGithub;
+SvgEarthLock.displayName = "SvgEarthLock";
+var EarthLock_default = SvgEarthLock;
 
-// icons/Instagram.tsx
+// icons/Eclipse.tsx
 import * as React523 from "react";
-var SvgInstagram = React523.forwardRef(
+var SvgEclipse = React523.forwardRef(
   (props, ref) => /* @__PURE__ */ React523.createElement(
     "svg",
     {
@@ -10975,15 +10975,15 @@ var SvgInstagram = React523.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React523.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM8 3h1v1H8zM10 3h1v1h-1zM1 4h1v1H1zM5 4h1v1H5zM6 4h1v1H6zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM7 6h1v1H7zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM6 7h1v1H6zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+    /* @__PURE__ */ React523.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM3 2h1v1H3zM6 2h1v1H6zM8 2h1v1H8zM2 3h1v1H2zM5 3h1v1H5zM9 3h1v1H9zM1 4h1v1H1zM5 4h1v1H5zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM7 7h1v1H7zM8 7h1v1H8zM9 7h1v1H9zM10 7h1v1h-1zM2 8h1v1H2zM9 8h1v1H9zM3 9h1v1H3zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
   )
 );
-SvgInstagram.displayName = "SvgInstagram";
-var Instagram_default = SvgInstagram;
+SvgEclipse.displayName = "SvgEclipse";
+var Eclipse_default = SvgEclipse;
 
-// icons/Link.tsx
+// icons/Egg.tsx
 import * as React524 from "react";
-var SvgLink = React524.forwardRef(
+var SvgEgg = React524.forwardRef(
   (props, ref) => /* @__PURE__ */ React524.createElement(
     "svg",
     {
@@ -10996,15 +10996,15 @@ var SvgLink = React524.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React524.createElement("path", { d: "M7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM6 2h1v1H6zM10 2h1v1h-1zM10 3h1v1h-1zM4 4h1v1H4zM5 4h1v1H5zM10 4h1v1h-1zM3 5h1v1H3zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM8 6h1v1H8zM1 7h1v1H1zM6 7h1v1H6zM7 7h1v1H7zM1 8h1v1H1zM1 9h1v1H1zM5 9h1v1H5zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4z" })
+    /* @__PURE__ */ React524.createElement("path", { d: "M5 1h1v1H5zM6 1h1v1H6zM4 2h1v1H4zM7 2h1v1H7zM3 3h1v1H3zM8 3h1v1H8zM3 4h1v1H3zM8 4h1v1H8zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM3 9h1v1H3zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
   )
 );
-SvgLink.displayName = "SvgLink";
-var Link_default = SvgLink;
+SvgEgg.displayName = "SvgEgg";
+var Egg_default = SvgEgg;
 
-// icons/Moon.tsx
+// icons/EggFried.tsx
 import * as React525 from "react";
-var SvgMoon = React525.forwardRef(
+var SvgEggFried = React525.forwardRef(
   (props, ref) => /* @__PURE__ */ React525.createElement(
     "svg",
     {
@@ -11017,15 +11017,15 @@ var SvgMoon = React525.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React525.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM3 2h1v1H3zM5 2h1v1H5zM2 3h1v1H2zM4 3h1v1H4zM1 4h1v1H1zM4 4h1v1H4zM1 5h1v1H1zM4 5h1v1H4zM1 6h1v1H1zM5 6h1v1H5zM9 6h1v1H9zM10 6h1v1h-1zM1 7h1v1H1zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM10 7h1v1h-1zM2 8h1v1H2zM9 8h1v1H9zM3 9h1v1H3zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
+    /* @__PURE__ */ React525.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM7 2h1v1H7zM1 3h1v1H1zM8 3h1v1H8zM1 4h1v1H1zM5 4h1v1H5zM6 4h1v1H6zM9 4h1v1H9zM2 5h1v1H2zM4 5h1v1H4zM7 5h1v1H7zM10 5h1v1h-1zM2 6h1v1H2zM4 6h1v1H4zM7 6h1v1H7zM10 6h1v1h-1zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM1 9h1v1H1zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5z" })
   )
 );
-SvgMoon.displayName = "SvgMoon";
-var Moon_default = SvgMoon;
+SvgEggFried.displayName = "SvgEggFried";
+var EggFried_default = SvgEggFried;
 
-// icons/PackageCheck.tsx
+// icons/EggOff.tsx
 import * as React526 from "react";
-var SvgPackageCheck = React526.forwardRef(
+var SvgEggOff = React526.forwardRef(
   (props, ref) => /* @__PURE__ */ React526.createElement(
     "svg",
     {
@@ -11038,15 +11038,15 @@ var SvgPackageCheck = React526.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React526.createElement("path", { d: "M5 1h1v1H5zM6 1h1v1H6zM3 2h1v1H3zM4 2h1v1H4zM7 2h1v1H7zM8 2h1v1H8zM1 3h1v1H1zM2 3h1v1H2zM5 3h1v1H5zM6 3h1v1H6zM9 3h1v1H9zM10 3h1v1h-1zM1 4h1v1H1zM3 4h1v1H3zM4 4h1v1H4zM7 4h1v1H7zM8 4h1v1H8zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM6 5h1v1H6zM1 6h1v1H1zM5 6h1v1H5zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM2 8h1v1H2zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM8 9h1v1H8zM5 10h1v1H5zM6 10h1v1H6z" })
+    /* @__PURE__ */ React526.createElement("path", { d: "M1 1h1v1H1zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM3 3h1v1H3zM8 3h1v1H8zM3 4h1v1H3zM4 4h1v1H4zM8 4h1v1H8zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM7 7h1v1H7zM2 8h1v1H2zM8 8h1v1H8zM3 9h1v1H3zM8 9h1v1H8zM9 9h1v1H9zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM10 10h1v1h-1z" })
   )
 );
-SvgPackageCheck.displayName = "SvgPackageCheck";
-var PackageCheck_default = SvgPackageCheck;
+SvgEggOff.displayName = "SvgEggOff";
+var EggOff_default = SvgEggOff;
 
-// icons/Palette.tsx
+// icons/Ellipsis.tsx
 import * as React527 from "react";
-var SvgPalette = React527.forwardRef(
+var SvgEllipsis = React527.forwardRef(
   (props, ref) => /* @__PURE__ */ React527.createElement(
     "svg",
     {
@@ -11059,15 +11059,15 @@ var SvgPalette = React527.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React527.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM2 2h1v1H2zM9 2h1v1H9zM1 3h1v1H1zM6 3h1v1H6zM10 3h1v1h-1zM1 4h1v1H1zM4 4h1v1H4zM8 4h1v1H8zM10 4h1v1h-1zM1 5h1v1H1zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM8 6h1v1H8zM9 6h1v1H9zM1 7h1v1H1zM7 7h1v1H7zM1 8h1v1H1zM6 8h1v1H6zM2 9h1v1H2zM7 9h1v1H7zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+    /* @__PURE__ */ React527.createElement("path", { d: "M2 5h1v1H2zM3 5h1v1H3zM5 5h1v1H5zM6 5h1v1H6zM8 5h1v1H8zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM5 6h1v1H5zM6 6h1v1H6zM8 6h1v1H8zM9 6h1v1H9z" })
   )
 );
-SvgPalette.displayName = "SvgPalette";
-var Palette_default = SvgPalette;
+SvgEllipsis.displayName = "SvgEllipsis";
+var Ellipsis_default = SvgEllipsis;
 
-// icons/Pickaxe.tsx
+// icons/EllipsisVertical.tsx
 import * as React528 from "react";
-var SvgPickaxe = React528.forwardRef(
+var SvgEllipsisVertical = React528.forwardRef(
   (props, ref) => /* @__PURE__ */ React528.createElement(
     "svg",
     {
@@ -11080,15 +11080,15 @@ var SvgPickaxe = React528.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React528.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM3 3h1v1H3zM5 3h1v1H5zM6 3h1v1H6zM8 3h1v1H8zM4 4h1v1H4zM5 4h1v1H5zM9 4h1v1H9zM4 5h1v1H4zM8 5h1v1H8zM9 5h1v1H9zM3 6h1v1H3zM5 6h1v1H5zM7 6h1v1H7zM8 6h1v1H8zM10 6h1v1h-1zM2 7h1v1H2zM6 7h1v1H6zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM5 8h1v1H5zM8 8h1v1H8zM10 8h1v1h-1zM1 9h1v1H1zM4 9h1v1H4zM8 9h1v1H8zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3z" })
+    /* @__PURE__ */ React528.createElement("path", { d: "M5 2h1v1H5zM6 2h1v1H6zM5 3h1v1H5zM6 3h1v1H6zM5 5h1v1H5zM6 5h1v1H6zM5 6h1v1H5zM6 6h1v1H6zM5 8h1v1H5zM6 8h1v1H6zM5 9h1v1H5zM6 9h1v1H6z" })
   )
 );
-SvgPickaxe.displayName = "SvgPickaxe";
-var Pickaxe_default = SvgPickaxe;
+SvgEllipsisVertical.displayName = "SvgEllipsisVertical";
+var EllipsisVertical_default = SvgEllipsisVertical;
 
-// icons/ScanFace.tsx
+// icons/Equal.tsx
 import * as React529 from "react";
-var SvgScanFace = React529.forwardRef(
+var SvgEqual = React529.forwardRef(
   (props, ref) => /* @__PURE__ */ React529.createElement(
     "svg",
     {
@@ -11101,15 +11101,15 @@ var SvgScanFace = React529.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React529.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM10 3h1v1h-1zM4 4h1v1H4zM7 4h1v1H7zM3 7h1v1H3zM8 7h1v1H8zM1 8h1v1H1zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM8 10h1v1H8zM9 10h1v1H9z" })
+    /* @__PURE__ */ React529.createElement("path", { d: "M2 4h1v1H2zM3 4h1v1H3zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM9 7h1v1H9z" })
   )
 );
-SvgScanFace.displayName = "SvgScanFace";
-var ScanFace_default = SvgScanFace;
+SvgEqual.displayName = "SvgEqual";
+var Equal_default = SvgEqual;
 
-// icons/Search.tsx
+// icons/EqualApproximately.tsx
 import * as React530 from "react";
-var SvgSearch = React530.forwardRef(
+var SvgEqualApproximately = React530.forwardRef(
   (props, ref) => /* @__PURE__ */ React530.createElement(
     "svg",
     {
@@ -11122,15 +11122,15 @@ var SvgSearch = React530.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React530.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM1 3h1v1H1zM8 3h1v1H8zM1 4h1v1H1zM8 4h1v1H8zM1 5h1v1H1zM8 5h1v1H8zM1 6h1v1H1zM8 6h1v1H8zM2 7h1v1H2zM7 7h1v1H7zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM8 8h1v1H8zM9 9h1v1H9zM10 10h1v1h-1z" })
+    /* @__PURE__ */ React530.createElement("path", { d: "M3 3h1v1H3zM4 3h1v1H4zM2 4h1v1H2zM5 4h1v1H5zM6 4h1v1H6zM9 4h1v1H9zM7 5h1v1H7zM8 5h1v1H8zM3 6h1v1H3zM4 6h1v1H4zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM7 8h1v1H7zM8 8h1v1H8z" })
   )
 );
-SvgSearch.displayName = "SvgSearch";
-var Search_default = SvgSearch;
+SvgEqualApproximately.displayName = "SvgEqualApproximately";
+var EqualApproximately_default = SvgEqualApproximately;
 
-// icons/SquareMenu.tsx
+// icons/EqualNot.tsx
 import * as React531 from "react";
-var SvgSquareMenu = React531.forwardRef(
+var SvgEqualNot = React531.forwardRef(
   (props, ref) => /* @__PURE__ */ React531.createElement(
     "svg",
     {
@@ -11143,15 +11143,15 @@ var SvgSquareMenu = React531.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React531.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM10 3h1v1h-1zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+    /* @__PURE__ */ React531.createElement("path", { d: "M9 2h1v1H9zM8 3h1v1H8zM2 4h1v1H2zM3 4h1v1H3zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM6 5h1v1H6zM5 6h1v1H5zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM9 7h1v1H9zM3 8h1v1H3zM2 9h1v1H2z" })
   )
 );
-SvgSquareMenu.displayName = "SvgSquareMenu";
-var SquareMenu_default = SvgSquareMenu;
+SvgEqualNot.displayName = "SvgEqualNot";
+var EqualNot_default = SvgEqualNot;
 
-// icons/Sun.tsx
+// icons/Eraser.tsx
 import * as React532 from "react";
-var SvgSun = React532.forwardRef(
+var SvgEraser = React532.forwardRef(
   (props, ref) => /* @__PURE__ */ React532.createElement(
     "svg",
     {
@@ -11164,15 +11164,15 @@ var SvgSun = React532.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React532.createElement("path", { d: "M6 0h1v1H6zM2 1h1v1H2zM6 1h1v1H6zM3 2h1v1H3zM10 2h1v1h-1zM5 3h1v1H5zM6 3h1v1H6zM9 3h1v1H9zM4 4h1v1H4zM7 4h1v1H7zM0 5h1v1H0zM1 5h1v1H1zM3 5h1v1H3zM8 5h1v1H8zM3 6h1v1H3zM8 6h1v1H8zM10 6h1v1h-1zM11 6h1v1h-1zM4 7h1v1H4zM7 7h1v1H7zM2 8h1v1H2zM5 8h1v1H5zM6 8h1v1H6zM1 9h1v1H1zM8 9h1v1H8zM5 10h1v1H5zM9 10h1v1H9zM5 11h1v1H5z" })
+    /* @__PURE__ */ React532.createElement("path", { d: "M6 2h1v1H6zM5 3h1v1H5zM7 3h1v1H7zM4 4h1v1H4zM8 4h1v1H8zM3 5h1v1H3zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM8 6h1v1H8zM1 7h1v1H1zM5 7h1v1H5zM7 7h1v1H7zM2 8h1v1H2zM6 8h1v1H6zM3 9h1v1H3zM5 9h1v1H5zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
   )
 );
-SvgSun.displayName = "SvgSun";
-var Sun_default = SvgSun;
+SvgEraser.displayName = "SvgEraser";
+var Eraser_default = SvgEraser;
 
-// icons/SunDim.tsx
+// icons/EthernetPort.tsx
 import * as React533 from "react";
-var SvgSunDim = React533.forwardRef(
+var SvgEthernetPort = React533.forwardRef(
   (props, ref) => /* @__PURE__ */ React533.createElement(
     "svg",
     {
@@ -11185,15 +11185,15 @@ var SvgSunDim = React533.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React533.createElement("path", { d: "M6 1h1v1H6zM3 2h1v1H3zM5 3h1v1H5zM6 3h1v1H6zM9 3h1v1H9zM4 4h1v1H4zM7 4h1v1H7zM1 5h1v1H1zM3 5h1v1H3zM8 5h1v1H8zM3 6h1v1H3zM8 6h1v1H8zM10 6h1v1h-1zM4 7h1v1H4zM7 7h1v1H7zM2 8h1v1H2zM5 8h1v1H5zM6 8h1v1H6zM8 9h1v1H8zM5 10h1v1H5z" })
+    /* @__PURE__ */ React533.createElement("path", { d: "M0 1h1v1H0zM1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM10 1h1v1h-1zM0 2h1v1H0zM10 2h1v1h-1zM0 3h1v1H0zM2 3h1v1H2zM4 3h1v1H4zM6 3h1v1H6zM8 3h1v1H8zM10 3h1v1h-1zM0 4h1v1H0zM2 4h1v1H2zM4 4h1v1H4zM6 4h1v1H6zM8 4h1v1H8zM10 4h1v1h-1zM0 5h1v1H0zM10 5h1v1h-1zM0 6h1v1H0zM10 6h1v1h-1zM0 7h1v1H0zM10 7h1v1h-1zM0 8h1v1H0zM1 8h1v1H1zM2 8h1v1H2zM8 8h1v1H8zM9 8h1v1H9zM10 8h1v1h-1zM3 9h1v1H3zM7 9h1v1H7zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
   )
 );
-SvgSunDim.displayName = "SvgSunDim";
-var SunDim_default = SvgSunDim;
+SvgEthernetPort.displayName = "SvgEthernetPort";
+var EthernetPort_default = SvgEthernetPort;
 
-// icons/TreeDeciduous.tsx
+// icons/Euro.tsx
 import * as React534 from "react";
-var SvgTreeDeciduous = React534.forwardRef(
+var SvgEuro = React534.forwardRef(
   (props, ref) => /* @__PURE__ */ React534.createElement(
     "svg",
     {
@@ -11206,15 +11206,15 @@ var SvgTreeDeciduous = React534.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React534.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM3 2h1v1H3zM7 2h1v1H7zM2 3h1v1H2zM3 3h1v1H3zM7 3h1v1H7zM8 3h1v1H8zM1 4h1v1H1zM9 4h1v1H9zM1 5h1v1H1zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM7 6h1v1H7zM8 6h1v1H8zM1 7h1v1H1zM9 7h1v1H9zM1 8h1v1H1zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM5 10h1v1H5z" })
+    /* @__PURE__ */ React534.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM3 2h1v1H3zM9 2h1v1H9zM2 3h1v1H2zM1 4h1v1H1zM2 4h1v1H2zM3 4h1v1H3zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM2 5h1v1H2zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM2 7h1v1H2zM3 8h1v1H3zM9 8h1v1H9zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8z" })
   )
 );
-SvgTreeDeciduous.displayName = "SvgTreeDeciduous";
-var TreeDeciduous_default = SvgTreeDeciduous;
+SvgEuro.displayName = "SvgEuro";
+var Euro_default = SvgEuro;
 
-// icons/Twitter.tsx
+// icons/Expand.tsx
 import * as React535 from "react";
-var SvgTwitter = React535.forwardRef(
+var SvgExpand = React535.forwardRef(
   (props, ref) => /* @__PURE__ */ React535.createElement(
     "svg",
     {
@@ -11227,15 +11227,15 @@ var SvgTwitter = React535.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React535.createElement("path", { d: "M6 2h1v1H6zM7 2h1v1H7zM10 2h1v1h-1zM1 3h1v1H1zM2 3h1v1H2zM5 3h1v1H5zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM3 4h1v1H3zM5 4h1v1H5zM9 4h1v1H9zM1 5h1v1H1zM4 5h1v1H4zM9 5h1v1H9zM1 6h1v1H1zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM9 7h1v1H9zM2 8h1v1H2zM8 8h1v1H8zM1 9h1v1H1zM7 9h1v1H7zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+    /* @__PURE__ */ React535.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM8 1h1v1H8zM9 1h1v1H9zM10 1h1v1h-1zM1 2h1v1H1zM2 2h1v1H2zM9 2h1v1H9zM10 2h1v1h-1zM1 3h1v1H1zM3 3h1v1H3zM8 3h1v1H8zM10 3h1v1h-1zM4 4h1v1H4zM7 4h1v1H7zM4 7h1v1H4zM7 7h1v1H7zM1 8h1v1H1zM3 8h1v1H3zM8 8h1v1H8zM10 8h1v1h-1zM1 9h1v1H1zM2 9h1v1H2zM9 9h1v1H9zM10 9h1v1h-1zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
   )
 );
-SvgTwitter.displayName = "SvgTwitter";
-var Twitter_default = SvgTwitter;
+SvgExpand.displayName = "SvgExpand";
+var Expand_default = SvgExpand;
 
-// icons/Users.tsx
+// icons/ExternalLink.tsx
 import * as React536 from "react";
-var SvgUsers = React536.forwardRef(
+var SvgExternalLink = React536.forwardRef(
   (props, ref) => /* @__PURE__ */ React536.createElement(
     "svg",
     {
@@ -11248,15 +11248,15 @@ var SvgUsers = React536.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React536.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM8 1h1v1H8zM2 2h1v1H2zM6 2h1v1H6zM9 2h1v1H9zM2 3h1v1H2zM6 3h1v1H6zM9 3h1v1H9zM2 4h1v1H2zM6 4h1v1H6zM9 4h1v1H9zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM8 5h1v1H8zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM1 8h1v1H1zM7 8h1v1H7zM10 8h1v1h-1zM1 9h1v1H1zM7 9h1v1H7zM10 9h1v1h-1zM1 10h1v1H1zM7 10h1v1H7zM10 10h1v1h-1z" })
+    /* @__PURE__ */ React536.createElement("path", { d: "M7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM10 1h1v1h-1zM9 2h1v1H9zM10 2h1v1h-1zM2 3h1v1H2zM3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM8 3h1v1H8zM10 3h1v1h-1zM1 4h1v1H1zM7 4h1v1H7zM10 4h1v1h-1zM1 5h1v1H1zM6 5h1v1H6zM1 6h1v1H1zM5 6h1v1H5zM8 6h1v1H8zM1 7h1v1H1zM8 7h1v1H8zM1 8h1v1H1zM8 8h1v1H8zM1 9h1v1H1zM8 9h1v1H8zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
   )
 );
-SvgUsers.displayName = "SvgUsers";
-var Users_default = SvgUsers;
+SvgExternalLink.displayName = "SvgExternalLink";
+var ExternalLink_default = SvgExternalLink;
 
-// icons/Youtube.tsx
+// icons/Eye.tsx
 import * as React537 from "react";
-var SvgYoutube = React537.forwardRef(
+var SvgEye = React537.forwardRef(
   (props, ref) => /* @__PURE__ */ React537.createElement(
     "svg",
     {
@@ -11269,7 +11269,3010 @@ var SvgYoutube = React537.forwardRef(
       ref,
       ...props
     },
-    /* @__PURE__ */ React537.createElement("path", { d: "M2 3h1v1H2zM3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+    /* @__PURE__ */ React537.createElement("path", { d: "M3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM2 4h1v1H2zM5 4h1v1H5zM6 4h1v1H6zM9 4h1v1H9zM1 5h1v1H1zM4 5h1v1H4zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM7 6h1v1H7zM10 6h1v1h-1zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8z" })
+  )
+);
+SvgEye.displayName = "SvgEye";
+var Eye_default = SvgEye;
+
+// icons/EyeClosed.tsx
+import * as React538 from "react";
+var SvgEyeClosed = React538.forwardRef(
+  (props, ref) => /* @__PURE__ */ React538.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React538.createElement("path", { d: "M1 3h1v1H1zM10 3h1v1h-1zM1 4h1v1H1zM10 4h1v1h-1zM2 5h1v1H2zM9 5h1v1H9zM1 6h1v1H1zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM8 6h1v1H8zM10 6h1v1h-1zM4 7h1v1H4zM7 7h1v1H7z" })
+  )
+);
+SvgEyeClosed.displayName = "SvgEyeClosed";
+var EyeClosed_default = SvgEyeClosed;
+
+// icons/EyeOff.tsx
+import * as React539 from "react";
+var SvgEyeOff = React539.forwardRef(
+  (props, ref) => /* @__PURE__ */ React539.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React539.createElement("path", { d: "M1 1h1v1H1zM2 2h1v1H2zM3 3h1v1H3zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM9 4h1v1H9zM1 5h1v1H1zM4 5h1v1H4zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM6 6h1v1H6zM10 6h1v1h-1zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM9 9h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgEyeOff.displayName = "SvgEyeOff";
+var EyeOff_default = SvgEyeOff;
+
+// icons/Facebook.tsx
+import * as React540 from "react";
+var SvgFacebook = React540.forwardRef(
+  (props, ref) => /* @__PURE__ */ React540.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React540.createElement("path", { d: "M5 0h1v1H5zM6 0h1v1H6zM7 0h1v1H7zM8 0h1v1H8zM4 1h1v1H4zM8 1h1v1H8zM4 2h1v1H4zM6 2h1v1H6zM7 2h1v1H7zM8 2h1v1H8zM4 3h1v1H4zM6 3h1v1H6zM3 4h1v1H3zM4 4h1v1H4zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM3 5h1v1H3zM8 5h1v1H8zM3 6h1v1H3zM4 6h1v1H4zM6 6h1v1H6zM7 6h1v1H7zM4 7h1v1H4zM6 7h1v1H6zM4 8h1v1H4zM6 8h1v1H6zM4 9h1v1H4zM6 9h1v1H6zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgFacebook.displayName = "SvgFacebook";
+var Facebook_default = SvgFacebook;
+
+// icons/Factory.tsx
+import * as React541 from "react";
+var SvgFactory = React541.forwardRef(
+  (props, ref) => /* @__PURE__ */ React541.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React541.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM1 2h1v1H1zM4 2h1v1H4zM1 3h1v1H1zM4 3h1v1H4zM1 4h1v1H1zM4 4h1v1H4zM7 4h1v1H7zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM6 5h1v1H6zM7 5h1v1H7zM9 5h1v1H9zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM5 6h1v1H5zM7 6h1v1H7zM8 6h1v1H8zM10 6h1v1h-1zM1 7h1v1H1zM10 7h1v1h-1zM1 8h1v1H1zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgFactory.displayName = "SvgFactory";
+var Factory_default = SvgFactory;
+
+// icons/Fan.tsx
+import * as React542 from "react";
+var SvgFan = React542.forwardRef(
+  (props, ref) => /* @__PURE__ */ React542.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React542.createElement("path", { d: "M4 0h1v1H4zM5 0h1v1H5zM6 0h1v1H6zM7 0h1v1H7zM3 1h1v1H3zM7 1h1v1H7zM3 2h1v1H3zM6 2h1v1H6zM0 3h1v1H0zM1 3h1v1H1zM3 3h1v1H3zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM0 4h1v1H0zM2 4h1v1H2zM3 4h1v1H3zM10 4h1v1h-1zM0 5h1v1H0zM5 5h1v1H5zM10 5h1v1h-1zM0 6h1v1H0zM7 6h1v1H7zM8 6h1v1H8zM10 6h1v1h-1zM1 7h1v1H1zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM7 7h1v1H7zM9 7h1v1H9zM10 7h1v1h-1zM4 8h1v1H4zM7 8h1v1H7zM3 9h1v1H3zM7 9h1v1H7zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgFan.displayName = "SvgFan";
+var Fan_default = SvgFan;
+
+// icons/FastForward.tsx
+import * as React543 from "react";
+var SvgFastForward = React543.forwardRef(
+  (props, ref) => /* @__PURE__ */ React543.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React543.createElement("path", { d: "M1 1h1v1H1zM6 1h1v1H6zM1 2h1v1H1zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM1 3h1v1H1zM3 3h1v1H3zM6 3h1v1H6zM8 3h1v1H8zM1 4h1v1H1zM4 4h1v1H4zM6 4h1v1H6zM9 4h1v1H9zM1 5h1v1H1zM5 5h1v1H5zM6 5h1v1H6zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM3 7h1v1H3zM6 7h1v1H6zM8 7h1v1H8zM1 8h1v1H1zM2 8h1v1H2zM6 8h1v1H6zM7 8h1v1H7zM1 9h1v1H1zM6 9h1v1H6z" })
+  )
+);
+SvgFastForward.displayName = "SvgFastForward";
+var FastForward_default = SvgFastForward;
+
+// icons/Feather.tsx
+import * as React544 from "react";
+var SvgFeather = React544.forwardRef(
+  (props, ref) => /* @__PURE__ */ React544.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React544.createElement("path", { d: "M6 0h1v1H6zM7 0h1v1H7zM8 0h1v1H8zM5 1h1v1H5zM9 1h1v1H9zM4 2h1v1H4zM10 2h1v1h-1zM3 3h1v1H3zM7 3h1v1H7zM10 3h1v1h-1zM2 4h1v1H2zM6 4h1v1H6zM10 4h1v1h-1zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM8 6h1v1H8zM2 7h1v1H2zM3 7h1v1H3zM7 7h1v1H7zM2 8h1v1H2zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM1 9h1v1H1zM0 10h1v1H0z" })
+  )
+);
+SvgFeather.displayName = "SvgFeather";
+var Feather_default = SvgFeather;
+
+// icons/Fence.tsx
+import * as React545 from "react";
+var SvgFence = React545.forwardRef(
+  (props, ref) => /* @__PURE__ */ React545.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React545.createElement("path", { d: "M1 1h1v1H1zM5 1h1v1H5zM9 1h1v1H9zM0 2h1v1H0zM2 2h1v1H2zM4 2h1v1H4zM6 2h1v1H6zM8 2h1v1H8zM10 2h1v1h-1zM0 3h1v1H0zM2 3h1v1H2zM4 3h1v1H4zM6 3h1v1H6zM8 3h1v1H8zM10 3h1v1h-1zM0 4h1v1H0zM2 4h1v1H2zM3 4h1v1H3zM4 4h1v1H4zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM10 4h1v1h-1zM0 5h1v1H0zM2 5h1v1H2zM4 5h1v1H4zM6 5h1v1H6zM8 5h1v1H8zM10 5h1v1h-1zM0 6h1v1H0zM2 6h1v1H2zM4 6h1v1H4zM6 6h1v1H6zM8 6h1v1H8zM10 6h1v1h-1zM0 7h1v1H0zM2 7h1v1H2zM4 7h1v1H4zM6 7h1v1H6zM8 7h1v1H8zM10 7h1v1h-1zM0 8h1v1H0zM2 8h1v1H2zM3 8h1v1H3zM4 8h1v1H4zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM10 8h1v1h-1zM0 9h1v1H0zM2 9h1v1H2zM4 9h1v1H4zM6 9h1v1H6zM8 9h1v1H8zM10 9h1v1h-1zM0 10h1v1H0zM1 10h1v1H1zM2 10h1v1H2zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgFence.displayName = "SvgFence";
+var Fence_default = SvgFence;
+
+// icons/FerrisWheel.tsx
+import * as React546 from "react";
+var SvgFerrisWheel = React546.forwardRef(
+  (props, ref) => /* @__PURE__ */ React546.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React546.createElement("path", { d: "M6 0h1v1H6zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM1 2h1v1H1zM3 2h1v1H3zM6 2h1v1H6zM8 2h1v1H8zM10 2h1v1h-1zM2 3h1v1H2zM9 3h1v1H9zM1 4h1v1H1zM3 4h1v1H3zM5 4h1v1H5zM6 4h1v1H6zM8 4h1v1H8zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM7 6h1v1H7zM10 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM5 7h1v1H5zM6 7h1v1H6zM8 7h1v1H8zM10 7h1v1h-1zM2 8h1v1H2zM5 8h1v1H5zM6 8h1v1H6zM9 8h1v1H9zM1 9h1v1H1zM4 9h1v1H4zM7 9h1v1H7zM10 9h1v1h-1zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
+  )
+);
+SvgFerrisWheel.displayName = "SvgFerrisWheel";
+var FerrisWheel_default = SvgFerrisWheel;
+
+// icons/Figma.tsx
+import * as React547 from "react";
+var SvgFigma = React547.forwardRef(
+  (props, ref) => /* @__PURE__ */ React547.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React547.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM2 2h1v1H2zM5 2h1v1H5zM8 2h1v1H8zM2 3h1v1H2zM5 3h1v1H5zM8 3h1v1H8zM3 4h1v1H3zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM7 4h1v1H7zM2 5h1v1H2zM5 5h1v1H5zM8 5h1v1H8zM2 6h1v1H2zM5 6h1v1H5zM6 6h1v1H6zM8 6h1v1H8zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM2 8h1v1H2zM5 8h1v1H5zM2 9h1v1H2zM5 9h1v1H5zM3 10h1v1H3zM4 10h1v1H4z" })
+  )
+);
+SvgFigma.displayName = "SvgFigma";
+var Figma_default = SvgFigma;
+
+// icons/File.tsx
+import * as React548 from "react";
+var SvgFile = React548.forwardRef(
+  (props, ref) => /* @__PURE__ */ React548.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React548.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFile.displayName = "SvgFile";
+var File_default = SvgFile;
+
+// icons/FileArchive.tsx
+import * as React549 from "react";
+var SvgFileArchive = React549.forwardRef(
+  (props, ref) => /* @__PURE__ */ React549.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React549.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM4 3h1v1H4zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM4 5h1v1H4zM9 5h1v1H9zM2 6h1v1H2zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM9 7h1v1H9zM4 8h1v1H4zM9 8h1v1H9zM3 9h1v1H3zM5 9h1v1H5zM9 9h1v1H9zM4 10h1v1H4zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileArchive.displayName = "SvgFileArchive";
+var FileArchive_default = SvgFileArchive;
+
+// icons/FileAudio.tsx
+import * as React550 from "react";
+var SvgFileAudio = React550.forwardRef(
+  (props, ref) => /* @__PURE__ */ React550.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React550.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM7 7h1v1H7zM9 7h1v1H9zM1 8h1v1H1zM2 8h1v1H2zM6 8h1v1H6zM7 8h1v1H7zM9 8h1v1H9zM1 9h1v1H1zM3 9h1v1H3zM5 9h1v1H5zM7 9h1v1H7zM9 9h1v1H9zM1 10h1v1H1zM2 10h1v1H2zM6 10h1v1H6zM7 10h1v1H7z" })
+  )
+);
+SvgFileAudio.displayName = "SvgFileAudio";
+var FileAudio_default = SvgFileAudio;
+
+// icons/FileAudio2.tsx
+import * as React551 from "react";
+var SvgFileAudio2 = React551.forwardRef(
+  (props, ref) => /* @__PURE__ */ React551.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React551.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM3 5h1v1H3zM4 5h1v1H4zM9 5h1v1H9zM1 6h1v1H1zM5 6h1v1H5zM9 6h1v1H9zM1 7h1v1H1zM2 7h1v1H2zM4 7h1v1H4zM5 7h1v1H5zM9 7h1v1H9zM1 8h1v1H1zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileAudio2.displayName = "SvgFileAudio2";
+var FileAudio2_default = SvgFileAudio2;
+
+// icons/FileAxis3D.tsx
+import * as React552 from "react";
+var SvgFileAxis3D = React552.forwardRef(
+  (props, ref) => /* @__PURE__ */ React552.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React552.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM4 5h1v1H4zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileAxis3D.displayName = "SvgFileAxis3D";
+var FileAxis3D_default = SvgFileAxis3D;
+
+// icons/FileBadge.tsx
+import * as React553 from "react";
+var SvgFileBadge = React553.forwardRef(
+  (props, ref) => /* @__PURE__ */ React553.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React553.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM3 4h1v1H3zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM1 5h1v1H1zM4 5h1v1H4zM9 5h1v1H9zM1 6h1v1H1zM4 6h1v1H4zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM9 7h1v1H9zM2 8h1v1H2zM3 8h1v1H3zM9 8h1v1H9zM1 9h1v1H1zM2 9h1v1H2zM4 9h1v1H4zM9 9h1v1H9zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileBadge.displayName = "SvgFileBadge";
+var FileBadge_default = SvgFileBadge;
+
+// icons/FileBadge2.tsx
+import * as React554 from "react";
+var SvgFileBadge2 = React554.forwardRef(
+  (props, ref) => /* @__PURE__ */ React554.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React554.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM5 4h1v1H5zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM4 5h1v1H4zM7 5h1v1H7zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileBadge2.displayName = "SvgFileBadge2";
+var FileBadge2_default = SvgFileBadge2;
+
+// icons/FileBox.tsx
+import * as React555 from "react";
+var SvgFileBox = React555.forwardRef(
+  (props, ref) => /* @__PURE__ */ React555.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React555.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM3 5h1v1H3zM4 5h1v1H4zM9 5h1v1H9zM1 6h1v1H1zM2 6h1v1H2zM5 6h1v1H5zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM3 7h1v1H3zM4 7h1v1H4zM6 7h1v1H6zM9 7h1v1H9zM1 8h1v1H1zM4 8h1v1H4zM6 8h1v1H6zM9 8h1v1H9zM1 9h1v1H1zM2 9h1v1H2zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM8 10h1v1H8z" })
+  )
+);
+SvgFileBox.displayName = "SvgFileBox";
+var FileBox_default = SvgFileBox;
+
+// icons/FileChartColumn.tsx
+import * as React556 from "react";
+var SvgFileChartColumn = React556.forwardRef(
+  (props, ref) => /* @__PURE__ */ React556.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React556.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileChartColumn.displayName = "SvgFileChartColumn";
+var FileChartColumn_default = SvgFileChartColumn;
+
+// icons/FileChartColumnIncreasing.tsx
+import * as React557 from "react";
+var SvgFileChartColumnIncreasing = React557.forwardRef(
+  (props, ref) => /* @__PURE__ */ React557.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React557.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileChartColumnIncreasing.displayName = "SvgFileChartColumnIncreasing";
+var FileChartColumnIncreasing_default = SvgFileChartColumnIncreasing;
+
+// icons/FileChartLine.tsx
+import * as React558 from "react";
+var SvgFileChartLine = React558.forwardRef(
+  (props, ref) => /* @__PURE__ */ React558.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React558.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileChartLine.displayName = "SvgFileChartLine";
+var FileChartLine_default = SvgFileChartLine;
+
+// icons/FileChartPie.tsx
+import * as React559 from "react";
+var SvgFileChartPie = React559.forwardRef(
+  (props, ref) => /* @__PURE__ */ React559.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React559.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM4 5h1v1H4zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM9 6h1v1H9zM1 7h1v1H1zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM0 8h1v1H0zM9 8h1v1H9zM0 9h1v1H0zM5 9h1v1H5zM9 9h1v1H9zM1 10h1v1H1zM4 10h1v1H4zM7 10h1v1H7zM8 10h1v1H8zM2 11h1v1H2zM3 11h1v1H3z" })
+  )
+);
+SvgFileChartPie.displayName = "SvgFileChartPie";
+var FileChartPie_default = SvgFileChartPie;
+
+// icons/FileCheck.tsx
+import * as React560 from "react";
+var SvgFileCheck = React560.forwardRef(
+  (props, ref) => /* @__PURE__ */ React560.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React560.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileCheck.displayName = "SvgFileCheck";
+var FileCheck_default = SvgFileCheck;
+
+// icons/FileCheck2.tsx
+import * as React561 from "react";
+var SvgFileCheck2 = React561.forwardRef(
+  (props, ref) => /* @__PURE__ */ React561.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React561.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM9 7h1v1H9zM3 8h1v1H3zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileCheck2.displayName = "SvgFileCheck2";
+var FileCheck2_default = SvgFileCheck2;
+
+// icons/FileClock.tsx
+import * as React562 from "react";
+var SvgFileClock = React562.forwardRef(
+  (props, ref) => /* @__PURE__ */ React562.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React562.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM3 5h1v1H3zM4 5h1v1H4zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM1 7h1v1H1zM3 7h1v1H3zM6 7h1v1H6zM9 7h1v1H9zM1 8h1v1H1zM4 8h1v1H4zM6 8h1v1H6zM9 8h1v1H9zM2 9h1v1H2zM5 9h1v1H5zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM8 10h1v1H8z" })
+  )
+);
+SvgFileClock.displayName = "SvgFileClock";
+var FileClock_default = SvgFileClock;
+
+// icons/FileCode.tsx
+import * as React563 from "react";
+var SvgFileCode = React563.forwardRef(
+  (props, ref) => /* @__PURE__ */ React563.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React563.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM8 7h1v1H8zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileCode.displayName = "SvgFileCode";
+var FileCode_default = SvgFileCode;
+
+// icons/FileCode2.tsx
+import * as React564 from "react";
+var SvgFileCode2 = React564.forwardRef(
+  (props, ref) => /* @__PURE__ */ React564.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React564.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM9 6h1v1H9zM1 7h1v1H1zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileCode2.displayName = "SvgFileCode2";
+var FileCode2_default = SvgFileCode2;
+
+// icons/FileCog.tsx
+import * as React565 from "react";
+var SvgFileCog = React565.forwardRef(
+  (props, ref) => /* @__PURE__ */ React565.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React565.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM3 5h1v1H3zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM9 6h1v1H9zM0 7h1v1H0zM1 7h1v1H1zM4 7h1v1H4zM9 7h1v1H9zM1 8h1v1H1zM4 8h1v1H4zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM9 9h1v1H9zM2 10h1v1H2zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileCog.displayName = "SvgFileCog";
+var FileCog_default = SvgFileCog;
+
+// icons/FileDiff.tsx
+import * as React566 from "react";
+var SvgFileDiff = React566.forwardRef(
+  (props, ref) => /* @__PURE__ */ React566.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React566.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM8 3h1v1H8zM2 4h1v1H2zM5 4h1v1H5zM9 4h1v1H9zM2 5h1v1H2zM4 5h1v1H4zM5 5h1v1H5zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileDiff.displayName = "SvgFileDiff";
+var FileDiff_default = SvgFileDiff;
+
+// icons/FileDigit.tsx
+import * as React567 from "react";
+var SvgFileDigit = React567.forwardRef(
+  (props, ref) => /* @__PURE__ */ React567.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React567.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM8 4h1v1H8zM9 4h1v1H9zM1 5h1v1H1zM2 5h1v1H2zM3 5h1v1H3zM5 5h1v1H5zM6 5h1v1H6zM9 5h1v1H9zM1 6h1v1H1zM3 6h1v1H3zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM3 7h1v1H3zM6 7h1v1H6zM9 7h1v1H9zM1 8h1v1H1zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileDigit.displayName = "SvgFileDigit";
+var FileDigit_default = SvgFileDigit;
+
+// icons/FileDown.tsx
+import * as React568 from "react";
+var SvgFileDown = React568.forwardRef(
+  (props, ref) => /* @__PURE__ */ React568.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React568.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileDown.displayName = "SvgFileDown";
+var FileDown_default = SvgFileDown;
+
+// icons/FileHeart.tsx
+import * as React569 from "react";
+var SvgFileHeart = React569.forwardRef(
+  (props, ref) => /* @__PURE__ */ React569.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React569.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM1 5h1v1H1zM3 5h1v1H3zM9 5h1v1H9zM0 6h1v1H0zM2 6h1v1H2zM4 6h1v1H4zM9 6h1v1H9zM1 7h1v1H1zM3 7h1v1H3zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileHeart.displayName = "SvgFileHeart";
+var FileHeart_default = SvgFileHeart;
+
+// icons/FileImage.tsx
+import * as React570 from "react";
+var SvgFileImage = React570.forwardRef(
+  (props, ref) => /* @__PURE__ */ React570.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React570.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM4 5h1v1H4zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM6 8h1v1H6zM8 8h1v1H8zM9 8h1v1H9zM2 9h1v1H2zM5 9h1v1H5zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileImage.displayName = "SvgFileImage";
+var FileImage_default = SvgFileImage;
+
+// icons/FileInput.tsx
+import * as React571 from "react";
+var SvgFileInput = React571.forwardRef(
+  (props, ref) => /* @__PURE__ */ React571.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React571.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM4 6h1v1H4zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM9 7h1v1H9zM4 8h1v1H4zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileInput.displayName = "SvgFileInput";
+var FileInput_default = SvgFileInput;
+
+// icons/FileJson.tsx
+import * as React572 from "react";
+var SvgFileJson = React572.forwardRef(
+  (props, ref) => /* @__PURE__ */ React572.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React572.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM7 7h1v1H7zM8 7h1v1H8zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM5 9h1v1H5zM6 9h1v1H6zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileJson.displayName = "SvgFileJson";
+var FileJson_default = SvgFileJson;
+
+// icons/FileJson2.tsx
+import * as React573 from "react";
+var SvgFileJson2 = React573.forwardRef(
+  (props, ref) => /* @__PURE__ */ React573.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React573.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM1 5h1v1H1zM5 5h1v1H5zM9 5h1v1H9zM0 6h1v1H0zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileJson2.displayName = "SvgFileJson2";
+var FileJson2_default = SvgFileJson2;
+
+// icons/FileKey.tsx
+import * as React574 from "react";
+var SvgFileKey = React574.forwardRef(
+  (props, ref) => /* @__PURE__ */ React574.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React574.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM8 3h1v1H8zM2 4h1v1H2zM7 4h1v1H7zM9 4h1v1H9zM2 5h1v1H2zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileKey.displayName = "SvgFileKey";
+var FileKey_default = SvgFileKey;
+
+// icons/FileKey2.tsx
+import * as React575 from "react";
+var SvgFileKey2 = React575.forwardRef(
+  (props, ref) => /* @__PURE__ */ React575.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React575.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM4 5h1v1H4zM9 5h1v1H9zM3 6h1v1H3zM9 6h1v1H9zM1 7h1v1H1zM2 7h1v1H2zM4 7h1v1H4zM9 7h1v1H9zM0 8h1v1H0zM2 8h1v1H2zM9 8h1v1H9zM1 9h1v1H1zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileKey2.displayName = "SvgFileKey2";
+var FileKey2_default = SvgFileKey2;
+
+// icons/FileLock.tsx
+import * as React576 from "react";
+var SvgFileLock = React576.forwardRef(
+  (props, ref) => /* @__PURE__ */ React576.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React576.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileLock.displayName = "SvgFileLock";
+var FileLock_default = SvgFileLock;
+
+// icons/FileLock2.tsx
+import * as React577 from "react";
+var SvgFileLock2 = React577.forwardRef(
+  (props, ref) => /* @__PURE__ */ React577.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React577.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM6 3h1v1H6zM8 3h1v1H8zM3 4h1v1H3zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM3 5h1v1H3zM9 5h1v1H9zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM9 6h1v1H9zM1 7h1v1H1zM4 7h1v1H4zM9 7h1v1H9zM1 8h1v1H1zM2 8h1v1H2zM3 8h1v1H3zM4 8h1v1H4zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileLock2.displayName = "SvgFileLock2";
+var FileLock2_default = SvgFileLock2;
+
+// icons/FileMinus.tsx
+import * as React578 from "react";
+var SvgFileMinus = React578.forwardRef(
+  (props, ref) => /* @__PURE__ */ React578.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React578.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileMinus.displayName = "SvgFileMinus";
+var FileMinus_default = SvgFileMinus;
+
+// icons/FileMinus2.tsx
+import * as React579 from "react";
+var SvgFileMinus2 = React579.forwardRef(
+  (props, ref) => /* @__PURE__ */ React579.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React579.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM9 6h1v1H9zM1 7h1v1H1zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM9 7h1v1H9zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileMinus2.displayName = "SvgFileMinus2";
+var FileMinus2_default = SvgFileMinus2;
+
+// icons/FileMusic.tsx
+import * as React580 from "react";
+var SvgFileMusic = React580.forwardRef(
+  (props, ref) => /* @__PURE__ */ React580.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React580.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM8 3h1v1H8zM2 4h1v1H2zM9 4h1v1H9zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM9 5h1v1H9zM3 6h1v1H3zM4 6h1v1H4zM7 6h1v1H7zM9 6h1v1H9zM3 7h1v1H3zM6 7h1v1H6zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM1 9h1v1H1zM3 9h1v1H3zM6 9h1v1H6zM9 9h1v1H9zM2 10h1v1H2zM8 10h1v1H8z" })
+  )
+);
+SvgFileMusic.displayName = "SvgFileMusic";
+var FileMusic_default = SvgFileMusic;
+
+// icons/FileOutput.tsx
+import * as React581 from "react";
+var SvgFileOutput = React581.forwardRef(
+  (props, ref) => /* @__PURE__ */ React581.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React581.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM2 6h1v1H2zM9 6h1v1H9zM1 7h1v1H1zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileOutput.displayName = "SvgFileOutput";
+var FileOutput_default = SvgFileOutput;
+
+// icons/FilePen.tsx
+import * as React582 from "react";
+var SvgFilePen = React582.forwardRef(
+  (props, ref) => /* @__PURE__ */ React582.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React582.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM5 6h1v1H5zM6 6h1v1H6zM9 6h1v1H9zM4 7h1v1H4zM6 7h1v1H6zM9 7h1v1H9zM3 8h1v1H3zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM4 9h1v1H4zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFilePen.displayName = "SvgFilePen";
+var FilePen_default = SvgFilePen;
+
+// icons/FilePenLine.tsx
+import * as React583 from "react";
+var SvgFilePenLine = React583.forwardRef(
+  (props, ref) => /* @__PURE__ */ React583.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React583.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM2 4h1v1H2zM9 4h1v1H9zM10 4h1v1h-1zM2 5h1v1H2zM8 5h1v1H8zM10 5h1v1h-1zM2 6h1v1H2zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM6 7h1v1H6zM8 7h1v1H8zM2 8h1v1H2zM4 8h1v1H4zM6 8h1v1H6zM7 8h1v1H7zM2 9h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFilePenLine.displayName = "SvgFilePenLine";
+var FilePenLine_default = SvgFilePenLine;
+
+// icons/FilePlus.tsx
+import * as React584 from "react";
+var SvgFilePlus = React584.forwardRef(
+  (props, ref) => /* @__PURE__ */ React584.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React584.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFilePlus.displayName = "SvgFilePlus";
+var FilePlus_default = SvgFilePlus;
+
+// icons/FilePlus2.tsx
+import * as React585 from "react";
+var SvgFilePlus2 = React585.forwardRef(
+  (props, ref) => /* @__PURE__ */ React585.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React585.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM3 6h1v1H3zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM9 7h1v1H9zM3 8h1v1H3zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFilePlus2.displayName = "SvgFilePlus2";
+var FilePlus2_default = SvgFilePlus2;
+
+// icons/FileQuestion.tsx
+import * as React586 from "react";
+var SvgFileQuestion = React586.forwardRef(
+  (props, ref) => /* @__PURE__ */ React586.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React586.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM9 4h1v1H9zM2 5h1v1H2zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileQuestion.displayName = "SvgFileQuestion";
+var FileQuestion_default = SvgFileQuestion;
+
+// icons/FileScan.tsx
+import * as React587 from "react";
+var SvgFileScan = React587.forwardRef(
+  (props, ref) => /* @__PURE__ */ React587.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React587.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM2 6h1v1H2zM5 6h1v1H5zM6 6h1v1H6zM8 6h1v1H8zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM2 9h1v1H2zM5 9h1v1H5zM9 9h1v1H9zM3 10h1v1H3zM5 10h1v1H5zM6 10h1v1H6zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgFileScan.displayName = "SvgFileScan";
+var FileScan_default = SvgFileScan;
+
+// icons/FileSearch.tsx
+import * as React588 from "react";
+var SvgFileSearch = React588.forwardRef(
+  (props, ref) => /* @__PURE__ */ React588.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React588.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM3 4h1v1H3zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM1 5h1v1H1zM4 5h1v1H4zM9 5h1v1H9zM1 6h1v1H1zM4 6h1v1H4zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM9 7h1v1H9zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileSearch.displayName = "SvgFileSearch";
+var FileSearch_default = SvgFileSearch;
+
+// icons/FileSearch2.tsx
+import * as React589 from "react";
+var SvgFileSearch2 = React589.forwardRef(
+  (props, ref) => /* @__PURE__ */ React589.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React589.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileSearch2.displayName = "SvgFileSearch2";
+var FileSearch2_default = SvgFileSearch2;
+
+// icons/FileSliders.tsx
+import * as React590 from "react";
+var SvgFileSliders = React590.forwardRef(
+  (props, ref) => /* @__PURE__ */ React590.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React590.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM6 9h1v1H6zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileSliders.displayName = "SvgFileSliders";
+var FileSliders_default = SvgFileSliders;
+
+// icons/FileSpreadsheet.tsx
+import * as React591 from "react";
+var SvgFileSpreadsheet = React591.forwardRef(
+  (props, ref) => /* @__PURE__ */ React591.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React591.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileSpreadsheet.displayName = "SvgFileSpreadsheet";
+var FileSpreadsheet_default = SvgFileSpreadsheet;
+
+// icons/FileStack.tsx
+import * as React592 from "react";
+var SvgFileStack = React592.forwardRef(
+  (props, ref) => /* @__PURE__ */ React592.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React592.createElement("path", { d: "M6 0h1v1H6zM7 0h1v1H7zM8 0h1v1H8zM5 1h1v1H5zM8 1h1v1H8zM9 1h1v1H9zM3 2h1v1H3zM5 2h1v1H5zM8 2h1v1H8zM9 2h1v1H9zM10 2h1v1h-1zM3 3h1v1H3zM5 3h1v1H5zM10 3h1v1h-1zM1 4h1v1H1zM3 4h1v1H3zM5 4h1v1H5zM10 4h1v1h-1zM1 5h1v1H1zM3 5h1v1H3zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM5 6h1v1H5zM10 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM9 7h1v1H9zM1 8h1v1H1zM3 8h1v1H3zM1 9h1v1H1zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM1 10h1v1H1zM2 11h1v1H2zM3 11h1v1H3zM4 11h1v1H4zM5 11h1v1H5zM6 11h1v1H6z" })
+  )
+);
+SvgFileStack.displayName = "SvgFileStack";
+var FileStack_default = SvgFileStack;
+
+// icons/FileSymlink.tsx
+import * as React593 from "react";
+var SvgFileSymlink = React593.forwardRef(
+  (props, ref) => /* @__PURE__ */ React593.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React593.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileSymlink.displayName = "SvgFileSymlink";
+var FileSymlink_default = SvgFileSymlink;
+
+// icons/FileTerminal.tsx
+import * as React594 from "react";
+var SvgFileTerminal = React594.forwardRef(
+  (props, ref) => /* @__PURE__ */ React594.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React594.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileTerminal.displayName = "SvgFileTerminal";
+var FileTerminal_default = SvgFileTerminal;
+
+// icons/FileText.tsx
+import * as React595 from "react";
+var SvgFileText = React595.forwardRef(
+  (props, ref) => /* @__PURE__ */ React595.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React595.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileText.displayName = "SvgFileText";
+var FileText_default = SvgFileText;
+
+// icons/FileType.tsx
+import * as React596 from "react";
+var SvgFileType = React596.forwardRef(
+  (props, ref) => /* @__PURE__ */ React596.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React596.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM5 7h1v1H5zM7 7h1v1H7zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileType.displayName = "SvgFileType";
+var FileType_default = SvgFileType;
+
+// icons/FileType2.tsx
+import * as React597 from "react";
+var SvgFileType2 = React597.forwardRef(
+  (props, ref) => /* @__PURE__ */ React597.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React597.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM0 6h1v1H0zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM9 6h1v1H9zM0 7h1v1H0zM2 7h1v1H2zM4 7h1v1H4zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM1 9h1v1H1zM2 9h1v1H2zM3 9h1v1H3zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileType2.displayName = "SvgFileType2";
+var FileType2_default = SvgFileType2;
+
+// icons/FileUp.tsx
+import * as React598 from "react";
+var SvgFileUp = React598.forwardRef(
+  (props, ref) => /* @__PURE__ */ React598.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React598.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileUp.displayName = "SvgFileUp";
+var FileUp_default = SvgFileUp;
+
+// icons/FileUser.tsx
+import * as React599 from "react";
+var SvgFileUser = React599.forwardRef(
+  (props, ref) => /* @__PURE__ */ React599.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React599.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM6 8h1v1H6zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileUser.displayName = "SvgFileUser";
+var FileUser_default = SvgFileUser;
+
+// icons/FileVideo.tsx
+import * as React600 from "react";
+var SvgFileVideo = React600.forwardRef(
+  (props, ref) => /* @__PURE__ */ React600.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React600.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileVideo.displayName = "SvgFileVideo";
+var FileVideo_default = SvgFileVideo;
+
+// icons/FileVideo2.tsx
+import * as React601 from "react";
+var SvgFileVideo2 = React601.forwardRef(
+  (props, ref) => /* @__PURE__ */ React601.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React601.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM5 6h1v1H5zM9 6h1v1H9zM0 7h1v1H0zM4 7h1v1H4zM5 7h1v1H5zM9 7h1v1H9zM1 8h1v1H1zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileVideo2.displayName = "SvgFileVideo2";
+var FileVideo2_default = SvgFileVideo2;
+
+// icons/FileVolume.tsx
+import * as React602 from "react";
+var SvgFileVolume = React602.forwardRef(
+  (props, ref) => /* @__PURE__ */ React602.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React602.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM3 5h1v1H3zM5 5h1v1H5zM9 5h1v1H9zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM2 7h1v1H2zM3 7h1v1H3zM6 7h1v1H6zM9 7h1v1H9zM3 8h1v1H3zM5 8h1v1H5zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileVolume.displayName = "SvgFileVolume";
+var FileVolume_default = SvgFileVolume;
+
+// icons/FileVolume2.tsx
+import * as React603 from "react";
+var SvgFileVolume2 = React603.forwardRef(
+  (props, ref) => /* @__PURE__ */ React603.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React603.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM7 5h1v1H7zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM8 6h1v1H8zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM6 7h1v1H6zM8 7h1v1H8zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM8 8h1v1H8zM9 8h1v1H9zM2 9h1v1H2zM7 9h1v1H7zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileVolume2.displayName = "SvgFileVolume2";
+var FileVolume2_default = SvgFileVolume2;
+
+// icons/FileWarning.tsx
+import * as React604 from "react";
+var SvgFileWarning = React604.forwardRef(
+  (props, ref) => /* @__PURE__ */ React604.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React604.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM2 3h1v1H2zM8 3h1v1H8zM2 4h1v1H2zM5 4h1v1H5zM9 4h1v1H9zM2 5h1v1H2zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM5 8h1v1H5zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileWarning.displayName = "SvgFileWarning";
+var FileWarning_default = SvgFileWarning;
+
+// icons/FileX.tsx
+import * as React605 from "react";
+var SvgFileX = React605.forwardRef(
+  (props, ref) => /* @__PURE__ */ React605.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React605.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM2 5h1v1H2zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM6 6h1v1H6zM9 6h1v1H9zM2 7h1v1H2zM5 7h1v1H5zM9 7h1v1H9zM2 8h1v1H2zM4 8h1v1H4zM6 8h1v1H6zM9 8h1v1H9zM2 9h1v1H2zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileX.displayName = "SvgFileX";
+var FileX_default = SvgFileX;
+
+// icons/FileX2.tsx
+import * as React606 from "react";
+var SvgFileX2 = React606.forwardRef(
+  (props, ref) => /* @__PURE__ */ React606.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React606.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM6 3h1v1H6zM8 3h1v1H8zM2 4h1v1H2zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM9 5h1v1H9zM1 6h1v1H1zM3 6h1v1H3zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM1 8h1v1H1zM3 8h1v1H3zM9 8h1v1H9zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFileX2.displayName = "SvgFileX2";
+var FileX2_default = SvgFileX2;
+
+// icons/Files.tsx
+import * as React607 from "react";
+var SvgFiles = React607.forwardRef(
+  (props, ref) => /* @__PURE__ */ React607.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React607.createElement("path", { d: "M4 0h1v1H4zM5 0h1v1H5zM6 0h1v1H6zM3 1h1v1H3zM6 1h1v1H6zM7 1h1v1H7zM1 2h1v1H1zM3 2h1v1H3zM6 2h1v1H6zM8 2h1v1H8zM1 3h1v1H1zM3 3h1v1H3zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM3 4h1v1H3zM9 4h1v1H9zM1 5h1v1H1zM3 5h1v1H3zM9 5h1v1H9zM1 6h1v1H1zM3 6h1v1H3zM9 6h1v1H9zM1 7h1v1H1zM3 7h1v1H3zM9 7h1v1H9zM1 8h1v1H1zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM1 9h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
+  )
+);
+SvgFiles.displayName = "SvgFiles";
+var Files_default = SvgFiles;
+
+// icons/Film.tsx
+import * as React608 from "react";
+var SvgFilm = React608.forwardRef(
+  (props, ref) => /* @__PURE__ */ React608.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React608.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM3 2h1v1H3zM8 2h1v1H8zM10 2h1v1h-1zM1 3h1v1H1zM2 3h1v1H2zM3 3h1v1H3zM8 3h1v1H8zM9 3h1v1H9zM10 3h1v1h-1zM1 4h1v1H1zM3 4h1v1H3zM8 4h1v1H8zM10 4h1v1h-1zM1 5h1v1H1zM2 5h1v1H2zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM8 6h1v1H8zM10 6h1v1h-1zM1 7h1v1H1zM2 7h1v1H2zM3 7h1v1H3zM8 7h1v1H8zM9 7h1v1H9zM10 7h1v1h-1zM1 8h1v1H1zM3 8h1v1H3zM8 8h1v1H8zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFilm.displayName = "SvgFilm";
+var Film_default = SvgFilm;
+
+// icons/Fingerprint.tsx
+import * as React609 from "react";
+var SvgFingerprint = React609.forwardRef(
+  (props, ref) => /* @__PURE__ */ React609.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React609.createElement("path", { d: "M5 0h1v1H5zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM2 2h1v1H2zM10 2h1v1h-1zM1 3h1v1H1zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM1 4h1v1H1zM9 4h1v1H9zM1 5h1v1H1zM3 5h1v1H3zM5 5h1v1H5zM6 5h1v1H6zM9 5h1v1H9zM11 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM5 6h1v1H5zM9 6h1v1H9zM11 6h1v1h-1zM3 7h1v1H3zM5 7h1v1H5zM7 7h1v1H7zM9 7h1v1H9zM11 7h1v1h-1zM1 8h1v1H1zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM11 8h1v1h-1zM3 9h1v1H3zM7 9h1v1H7zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3zM5 10h1v1H5zM7 10h1v1H7zM9 10h1v1H9zM4 11h1v1H4zM7 11h1v1H7zM9 11h1v1H9z" })
+  )
+);
+SvgFingerprint.displayName = "SvgFingerprint";
+var Fingerprint_default = SvgFingerprint;
+
+// icons/FireExtinguisher.tsx
+import * as React610 from "react";
+var SvgFireExtinguisher = React610.forwardRef(
+  (props, ref) => /* @__PURE__ */ React610.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React610.createElement("path", { d: "M5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM4 2h1v1H4zM5 2h1v1H5zM7 2h1v1H7zM8 2h1v1H8zM3 3h1v1H3zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM2 4h1v1H2zM5 4h1v1H5zM7 4h1v1H7zM2 5h1v1H2zM4 5h1v1H4zM8 5h1v1H8zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM8 6h1v1H8zM2 7h1v1H2zM4 7h1v1H4zM8 7h1v1H8zM2 8h1v1H2zM4 8h1v1H4zM8 8h1v1H8zM2 9h1v1H2zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM4 10h1v1H4zM8 10h1v1H8zM5 11h1v1H5zM6 11h1v1H6zM7 11h1v1H7z" })
+  )
+);
+SvgFireExtinguisher.displayName = "SvgFireExtinguisher";
+var FireExtinguisher_default = SvgFireExtinguisher;
+
+// icons/Fish.tsx
+import * as React611 from "react";
+var SvgFish = React611.forwardRef(
+  (props, ref) => /* @__PURE__ */ React611.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React611.createElement("path", { d: "M3 2h1v1H3zM4 2h1v1H4zM5 2h1v1H5zM6 2h1v1H6zM1 3h1v1H1zM4 3h1v1H4zM6 3h1v1H6zM7 3h1v1H7zM0 4h1v1H0zM2 4h1v1H2zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM8 4h1v1H8zM0 5h1v1H0zM3 5h1v1H3zM6 5h1v1H6zM9 5h1v1H9zM1 6h1v1H1zM3 6h1v1H3zM6 6h1v1H6zM8 6h1v1H8zM10 6h1v1h-1zM0 7h1v1H0zM3 7h1v1H3zM6 7h1v1H6zM9 7h1v1H9zM0 8h1v1H0zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM8 8h1v1H8zM1 9h1v1H1zM4 9h1v1H4zM6 9h1v1H6zM7 9h1v1H7zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgFish.displayName = "SvgFish";
+var Fish_default = SvgFish;
+
+// icons/FishOff.tsx
+import * as React612 from "react";
+var SvgFishOff = React612.forwardRef(
+  (props, ref) => /* @__PURE__ */ React612.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React612.createElement("path", { d: "M1 1h1v1H1zM2 2h1v1H2zM5 2h1v1H5zM6 2h1v1H6zM1 3h1v1H1zM3 3h1v1H3zM6 3h1v1H6zM7 3h1v1H7zM0 4h1v1H0zM2 4h1v1H2zM4 4h1v1H4zM8 4h1v1H8zM0 5h1v1H0zM3 5h1v1H3zM5 5h1v1H5zM9 5h1v1H9zM1 6h1v1H1zM3 6h1v1H3zM6 6h1v1H6zM10 6h1v1h-1zM0 7h1v1H0zM3 7h1v1H3zM7 7h1v1H7zM0 8h1v1H0zM2 8h1v1H2zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM8 8h1v1H8zM1 9h1v1H1zM4 9h1v1H4zM6 9h1v1H6zM7 9h1v1H7zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM10 10h1v1h-1z" })
+  )
+);
+SvgFishOff.displayName = "SvgFishOff";
+var FishOff_default = SvgFishOff;
+
+// icons/FishSymbol.tsx
+import * as React613 from "react";
+var SvgFishSymbol = React613.forwardRef(
+  (props, ref) => /* @__PURE__ */ React613.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React613.createElement("path", { d: "M0 3h1v1H0zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM1 4h1v1H1zM3 4h1v1H3zM9 4h1v1H9zM2 5h1v1H2zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM9 6h1v1H9zM0 7h1v1H0zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8z" })
+  )
+);
+SvgFishSymbol.displayName = "SvgFishSymbol";
+var FishSymbol_default = SvgFishSymbol;
+
+// icons/Flag.tsx
+import * as React614 from "react";
+var SvgFlag = React614.forwardRef(
+  (props, ref) => /* @__PURE__ */ React614.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React614.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM9 1h1v1H9zM10 1h1v1h-1zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM8 2h1v1H8zM10 2h1v1h-1zM2 3h1v1H2zM10 3h1v1h-1zM2 4h1v1H2zM10 4h1v1h-1zM2 5h1v1H2zM10 5h1v1h-1zM2 6h1v1H2zM10 6h1v1h-1zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM9 7h1v1H9zM10 7h1v1h-1zM2 8h1v1H2zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM2 9h1v1H2zM2 10h1v1H2z" })
+  )
+);
+SvgFlag.displayName = "SvgFlag";
+var Flag_default = SvgFlag;
+
+// icons/FlagOff.tsx
+import * as React615 from "react";
+var SvgFlagOff = React615.forwardRef(
+  (props, ref) => /* @__PURE__ */ React615.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React615.createElement("path", { d: "M1 1h1v1H1zM4 1h1v1H4zM5 1h1v1H5zM9 1h1v1H9zM10 1h1v1h-1zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM8 2h1v1H8zM10 2h1v1h-1zM2 3h1v1H2zM3 3h1v1H3zM10 3h1v1h-1zM2 4h1v1H2zM4 4h1v1H4zM10 4h1v1h-1zM2 5h1v1H2zM5 5h1v1H5zM10 5h1v1h-1zM2 6h1v1H2zM6 6h1v1H6zM10 6h1v1h-1zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM7 7h1v1H7zM10 7h1v1h-1zM2 8h1v1H2zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM2 9h1v1H2zM9 9h1v1H9zM2 10h1v1H2zM10 10h1v1h-1z" })
+  )
+);
+SvgFlagOff.displayName = "SvgFlagOff";
+var FlagOff_default = SvgFlagOff;
+
+// icons/FlagTriangleLeft.tsx
+import * as React616 from "react";
+var SvgFlagTriangleLeft = React616.forwardRef(
+  (props, ref) => /* @__PURE__ */ React616.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React616.createElement("path", { d: "M7 1h1v1H7zM8 1h1v1H8zM5 2h1v1H5zM6 2h1v1H6zM8 2h1v1H8zM3 3h1v1H3zM4 3h1v1H4zM8 3h1v1H8zM5 4h1v1H5zM6 4h1v1H6zM8 4h1v1H8zM7 5h1v1H7zM8 5h1v1H8zM8 6h1v1H8zM8 7h1v1H8zM8 8h1v1H8zM8 9h1v1H8zM8 10h1v1H8z" })
+  )
+);
+SvgFlagTriangleLeft.displayName = "SvgFlagTriangleLeft";
+var FlagTriangleLeft_default = SvgFlagTriangleLeft;
+
+// icons/FlagTriangleRight.tsx
+import * as React617 from "react";
+var SvgFlagTriangleRight = React617.forwardRef(
+  (props, ref) => /* @__PURE__ */ React617.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React617.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM3 2h1v1H3zM5 2h1v1H5zM6 2h1v1H6zM3 3h1v1H3zM7 3h1v1H7zM8 3h1v1H8zM3 4h1v1H3zM5 4h1v1H5zM6 4h1v1H6zM3 5h1v1H3zM4 5h1v1H4zM3 6h1v1H3zM3 7h1v1H3zM3 8h1v1H3zM3 9h1v1H3zM3 10h1v1H3z" })
+  )
+);
+SvgFlagTriangleRight.displayName = "SvgFlagTriangleRight";
+var FlagTriangleRight_default = SvgFlagTriangleRight;
+
+// icons/Flame.tsx
+import * as React618 from "react";
+var SvgFlame = React618.forwardRef(
+  (props, ref) => /* @__PURE__ */ React618.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React618.createElement("path", { d: "M5 1h1v1H5zM6 1h1v1H6zM5 2h1v1H5zM7 2h1v1H7zM5 3h1v1H5zM7 3h1v1H7zM3 4h1v1H3zM5 4h1v1H5zM8 4h1v1H8zM2 5h1v1H2zM3 5h1v1H3zM5 5h1v1H5zM9 5h1v1H9zM2 6h1v1H2zM4 6h1v1H4zM5 6h1v1H5zM9 6h1v1H9zM2 7h1v1H2zM9 7h1v1H9zM2 8h1v1H2zM9 8h1v1H9zM3 9h1v1H3zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
+  )
+);
+SvgFlame.displayName = "SvgFlame";
+var Flame_default = SvgFlame;
+
+// icons/FlameKindling.tsx
+import * as React619 from "react";
+var SvgFlameKindling = React619.forwardRef(
+  (props, ref) => /* @__PURE__ */ React619.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React619.createElement("path", { d: "M5 0h1v1H5zM5 1h1v1H5zM6 1h1v1H6zM5 2h1v1H5zM6 2h1v1H6zM3 3h1v1H3zM5 3h1v1H5zM7 3h1v1H7zM2 4h1v1H2zM4 4h1v1H4zM5 4h1v1H5zM8 4h1v1H8zM2 5h1v1H2zM8 5h1v1H8zM2 6h1v1H2zM8 6h1v1H8zM3 7h1v1H3zM7 7h1v1H7zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM1 9h1v1H1zM2 9h1v1H2zM8 9h1v1H8zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM1 11h1v1H1zM2 11h1v1H2zM8 11h1v1H8zM9 11h1v1H9z" })
+  )
+);
+SvgFlameKindling.displayName = "SvgFlameKindling";
+var FlameKindling_default = SvgFlameKindling;
+
+// icons/Flashlight.tsx
+import * as React620 from "react";
+var SvgFlashlight = React620.forwardRef(
+  (props, ref) => /* @__PURE__ */ React620.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React620.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM2 2h1v1H2zM8 2h1v1H8zM2 3h1v1H2zM3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM2 4h1v1H2zM8 4h1v1H8zM2 5h1v1H2zM3 5h1v1H3zM7 5h1v1H7zM8 5h1v1H8zM3 6h1v1H3zM7 6h1v1H7zM3 7h1v1H3zM5 7h1v1H5zM7 7h1v1H7zM3 8h1v1H3zM7 8h1v1H7zM3 9h1v1H3zM7 9h1v1H7zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
+  )
+);
+SvgFlashlight.displayName = "SvgFlashlight";
+var Flashlight_default = SvgFlashlight;
+
+// icons/FlashlightOff.tsx
+import * as React621 from "react";
+var SvgFlashlightOff = React621.forwardRef(
+  (props, ref) => /* @__PURE__ */ React621.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React621.createElement("path", { d: "M1 1h1v1H1zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM2 2h1v1H2zM8 2h1v1H8zM2 3h1v1H2zM3 3h1v1H3zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM2 4h1v1H2zM4 4h1v1H4zM8 4h1v1H8zM2 5h1v1H2zM3 5h1v1H3zM5 5h1v1H5zM3 6h1v1H3zM6 6h1v1H6zM7 6h1v1H7zM3 7h1v1H3zM5 7h1v1H5zM7 7h1v1H7zM3 8h1v1H3zM7 8h1v1H7zM8 8h1v1H8zM3 9h1v1H3zM7 9h1v1H7zM9 9h1v1H9zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM10 10h1v1h-1z" })
+  )
+);
+SvgFlashlightOff.displayName = "SvgFlashlightOff";
+var FlashlightOff_default = SvgFlashlightOff;
+
+// icons/FlaskConical.tsx
+import * as React622 from "react";
+var SvgFlaskConical = React622.forwardRef(
+  (props, ref) => /* @__PURE__ */ React622.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React622.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM4 2h1v1H4zM6 2h1v1H6zM4 3h1v1H4zM6 3h1v1H6zM4 4h1v1H4zM6 4h1v1H6zM3 5h1v1H3zM7 5h1v1H7zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM2 7h1v1H2zM8 7h1v1H8zM2 8h1v1H2zM8 8h1v1H8zM1 9h1v1H1zM9 9h1v1H9zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgFlaskConical.displayName = "SvgFlaskConical";
+var FlaskConical_default = SvgFlaskConical;
+
+// icons/FlaskConicalOff.tsx
+import * as React623 from "react";
+var SvgFlaskConicalOff = React623.forwardRef(
+  (props, ref) => /* @__PURE__ */ React623.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React623.createElement("path", { d: "M1 1h1v1H1zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM2 2h1v1H2zM6 2h1v1H6zM3 3h1v1H3zM4 4h1v1H4zM3 5h1v1H3zM5 5h1v1H5zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM2 7h1v1H2zM6 7h1v1H6zM2 8h1v1H2zM7 8h1v1H7zM1 9h1v1H1zM8 9h1v1H8zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgFlaskConicalOff.displayName = "SvgFlaskConicalOff";
+var FlaskConicalOff_default = SvgFlaskConicalOff;
+
+// icons/FlaskRound.tsx
+import * as React624 from "react";
+var SvgFlaskRound = React624.forwardRef(
+  (props, ref) => /* @__PURE__ */ React624.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React624.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM4 2h1v1H4zM6 2h1v1H6zM4 3h1v1H4zM6 3h1v1H6zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM3 5h1v1H3zM7 5h1v1H7zM2 6h1v1H2zM8 6h1v1H8zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM2 8h1v1H2zM8 8h1v1H8zM3 9h1v1H3zM7 9h1v1H7zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgFlaskRound.displayName = "SvgFlaskRound";
+var FlaskRound_default = SvgFlaskRound;
+
+// icons/FlipHorizontal.tsx
+import * as React625 from "react";
+var SvgFlipHorizontal = React625.forwardRef(
+  (props, ref) => /* @__PURE__ */ React625.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React625.createElement("path", { d: "M5 0h1v1H5zM1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM5 1h1v1H5zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM9 2h1v1H9zM1 3h1v1H1zM5 3h1v1H5zM9 3h1v1H9zM1 4h1v1H1zM5 4h1v1H5zM9 4h1v1H9zM1 5h1v1H1zM9 5h1v1H9zM1 6h1v1H1zM5 6h1v1H5zM9 6h1v1H9zM1 7h1v1H1zM5 7h1v1H5zM9 7h1v1H9zM1 8h1v1H1zM9 8h1v1H9zM1 9h1v1H1zM2 9h1v1H2zM3 9h1v1H3zM5 9h1v1H5zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9zM5 10h1v1H5z" })
+  )
+);
+SvgFlipHorizontal.displayName = "SvgFlipHorizontal";
+var FlipHorizontal_default = SvgFlipHorizontal;
+
+// icons/FlipHorizontal2.tsx
+import * as React626 from "react";
+var SvgFlipHorizontal2 = React626.forwardRef(
+  (props, ref) => /* @__PURE__ */ React626.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React626.createElement("path", { d: "M5 0h1v1H5zM5 1h1v1H5zM1 3h1v1H1zM5 3h1v1H5zM9 3h1v1H9zM1 4h1v1H1zM2 4h1v1H2zM5 4h1v1H5zM8 4h1v1H8zM9 4h1v1H9zM1 5h1v1H1zM2 5h1v1H2zM3 5h1v1H3zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM1 6h1v1H1zM2 6h1v1H2zM5 6h1v1H5zM8 6h1v1H8zM9 6h1v1H9zM1 7h1v1H1zM5 7h1v1H5zM9 7h1v1H9zM5 9h1v1H5zM5 10h1v1H5z" })
+  )
+);
+SvgFlipHorizontal2.displayName = "SvgFlipHorizontal2";
+var FlipHorizontal2_default = SvgFlipHorizontal2;
+
+// icons/FlipVertical.tsx
+import * as React627 from "react";
+var SvgFlipVertical = React627.forwardRef(
+  (props, ref) => /* @__PURE__ */ React627.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React627.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM9 2h1v1H9zM1 3h1v1H1zM9 3h1v1H9zM0 5h1v1H0zM1 5h1v1H1zM3 5h1v1H3zM4 5h1v1H4zM6 5h1v1H6zM7 5h1v1H7zM9 5h1v1H9zM10 5h1v1h-1zM1 7h1v1H1zM9 7h1v1H9zM1 8h1v1H1zM9 8h1v1H9zM1 9h1v1H1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFlipVertical.displayName = "SvgFlipVertical";
+var FlipVertical_default = SvgFlipVertical;
+
+// icons/FlipVertical2.tsx
+import * as React628 from "react";
+var SvgFlipVertical2 = React628.forwardRef(
+  (props, ref) => /* @__PURE__ */ React628.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React628.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM4 2h1v1H4zM5 2h1v1H5zM6 2h1v1H6zM5 3h1v1H5zM0 5h1v1H0zM1 5h1v1H1zM3 5h1v1H3zM4 5h1v1H4zM6 5h1v1H6zM7 5h1v1H7zM9 5h1v1H9zM10 5h1v1h-1zM5 7h1v1H5zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7z" })
+  )
+);
+SvgFlipVertical2.displayName = "SvgFlipVertical2";
+var FlipVertical2_default = SvgFlipVertical2;
+
+// icons/Flower.tsx
+import * as React629 from "react";
+var SvgFlower = React629.forwardRef(
+  (props, ref) => /* @__PURE__ */ React629.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React629.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM5 2h1v1H5zM6 2h1v1H6zM10 2h1v1h-1zM1 3h1v1H1zM3 3h1v1H3zM5 3h1v1H5zM6 3h1v1H6zM8 3h1v1H8zM10 3h1v1h-1zM1 4h1v1H1zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM7 4h1v1H7zM10 4h1v1h-1zM2 5h1v1H2zM3 5h1v1H3zM4 5h1v1H4zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM7 6h1v1H7zM8 6h1v1H8zM9 6h1v1H9zM1 7h1v1H1zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM3 8h1v1H3zM5 8h1v1H5zM6 8h1v1H6zM8 8h1v1H8zM10 8h1v1h-1zM1 9h1v1H1zM5 9h1v1H5zM6 9h1v1H6zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgFlower.displayName = "SvgFlower";
+var Flower_default = SvgFlower;
+
+// icons/Flower2.tsx
+import * as React630 from "react";
+var SvgFlower2 = React630.forwardRef(
+  (props, ref) => /* @__PURE__ */ React630.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React630.createElement("path", { d: "M3 0h1v1H3zM4 0h1v1H4zM6 0h1v1H6zM7 0h1v1H7zM2 1h1v1H2zM5 1h1v1H5zM8 1h1v1H8zM2 2h1v1H2zM4 2h1v1H4zM5 2h1v1H5zM6 2h1v1H6zM8 2h1v1H8zM3 3h1v1H3zM4 3h1v1H4zM6 3h1v1H6zM7 3h1v1H7zM2 4h1v1H2zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM8 4h1v1H8zM2 5h1v1H2zM5 5h1v1H5zM8 5h1v1H8zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM5 7h1v1H5zM1 8h1v1H1zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM7 8h1v1H7zM8 8h1v1H8zM9 8h1v1H9zM1 9h1v1H1zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFlower2.displayName = "SvgFlower2";
+var Flower2_default = SvgFlower2;
+
+// icons/Focus.tsx
+import * as React631 from "react";
+var SvgFocus = React631.forwardRef(
+  (props, ref) => /* @__PURE__ */ React631.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React631.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM3 1h1v1H3zM8 1h1v1H8zM9 1h1v1H9zM10 1h1v1h-1zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM10 3h1v1h-1zM5 4h1v1H5zM6 4h1v1H6zM4 5h1v1H4zM7 5h1v1H7zM4 6h1v1H4zM7 6h1v1H7zM5 7h1v1H5zM6 7h1v1H6zM1 8h1v1H1zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgFocus.displayName = "SvgFocus";
+var Focus_default = SvgFocus;
+
+// icons/FoldHorizontal.tsx
+import * as React632 from "react";
+var SvgFoldHorizontal = React632.forwardRef(
+  (props, ref) => /* @__PURE__ */ React632.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React632.createElement("path", { d: "M5 0h1v1H5zM5 1h1v1H5zM1 3h1v1H1zM5 3h1v1H5zM9 3h1v1H9zM2 4h1v1H2zM5 4h1v1H5zM8 4h1v1H8zM0 5h1v1H0zM1 5h1v1H1zM2 5h1v1H2zM3 5h1v1H3zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM10 5h1v1h-1zM2 6h1v1H2zM5 6h1v1H5zM8 6h1v1H8zM1 7h1v1H1zM5 7h1v1H5zM9 7h1v1H9zM5 9h1v1H5zM5 10h1v1H5z" })
+  )
+);
+SvgFoldHorizontal.displayName = "SvgFoldHorizontal";
+var FoldHorizontal_default = SvgFoldHorizontal;
+
+// icons/FoldVertical.tsx
+import * as React633 from "react";
+var SvgFoldVertical = React633.forwardRef(
+  (props, ref) => /* @__PURE__ */ React633.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React633.createElement("path", { d: "M5 0h1v1H5zM3 1h1v1H3zM5 1h1v1H5zM7 1h1v1H7zM4 2h1v1H4zM5 2h1v1H5zM6 2h1v1H6zM5 3h1v1H5zM0 5h1v1H0zM1 5h1v1H1zM3 5h1v1H3zM4 5h1v1H4zM6 5h1v1H6zM7 5h1v1H7zM9 5h1v1H9zM10 5h1v1h-1zM5 7h1v1H5zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM3 9h1v1H3zM5 9h1v1H5zM7 9h1v1H7zM5 10h1v1H5z" })
+  )
+);
+SvgFoldVertical.displayName = "SvgFoldVertical";
+var FoldVertical_default = SvgFoldVertical;
+
+// icons/Folder.tsx
+import * as React634 from "react";
+var SvgFolder = React634.forwardRef(
+  (props, ref) => /* @__PURE__ */ React634.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React634.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM1 7h1v1H1zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolder.displayName = "SvgFolder";
+var Folder_default = SvgFolder;
+
+// icons/FolderArchive.tsx
+import * as React635 from "react";
+var SvgFolderArchive = React635.forwardRef(
+  (props, ref) => /* @__PURE__ */ React635.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React635.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM1 7h1v1H1zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM7 8h1v1H7zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM6 9h1v1H6zM8 9h1v1H8zM7 10h1v1H7z" })
+  )
+);
+SvgFolderArchive.displayName = "SvgFolderArchive";
+var FolderArchive_default = SvgFolderArchive;
+
+// icons/FolderCheck.tsx
+import * as React636 from "react";
+var SvgFolderCheck = React636.forwardRef(
+  (props, ref) => /* @__PURE__ */ React636.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React636.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderCheck.displayName = "SvgFolderCheck";
+var FolderCheck_default = SvgFolderCheck;
+
+// icons/FolderClock.tsx
+import * as React637 from "react";
+var SvgFolderClock = React637.forwardRef(
+  (props, ref) => /* @__PURE__ */ React637.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React637.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM7 5h1v1H7zM8 5h1v1H8zM1 6h1v1H1zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM5 7h1v1H5zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM5 8h1v1H5zM8 8h1v1H8zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM6 9h1v1H6zM9 9h1v1H9zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFolderClock.displayName = "SvgFolderClock";
+var FolderClock_default = SvgFolderClock;
+
+// icons/FolderClosed.tsx
+import * as React638 from "react";
+var SvgFolderClosed = React638.forwardRef(
+  (props, ref) => /* @__PURE__ */ React638.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React638.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM2 5h1v1H2zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM1 7h1v1H1zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderClosed.displayName = "SvgFolderClosed";
+var FolderClosed_default = SvgFolderClosed;
+
+// icons/FolderCode.tsx
+import * as React639 from "react";
+var SvgFolderCode = React639.forwardRef(
+  (props, ref) => /* @__PURE__ */ React639.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React639.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM8 6h1v1H8zM10 6h1v1h-1zM1 7h1v1H1zM4 7h1v1H4zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderCode.displayName = "SvgFolderCode";
+var FolderCode_default = SvgFolderCode;
+
+// icons/FolderCog.tsx
+import * as React640 from "react";
+var SvgFolderCog = React640.forwardRef(
+  (props, ref) => /* @__PURE__ */ React640.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React640.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM7 5h1v1H7zM1 6h1v1H1zM7 6h1v1H7zM8 6h1v1H8zM1 7h1v1H1zM6 7h1v1H6zM9 7h1v1H9zM10 7h1v1h-1zM1 8h1v1H1zM5 8h1v1H5zM6 8h1v1H6zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM7 9h1v1H7zM8 9h1v1H8zM8 10h1v1H8z" })
+  )
+);
+SvgFolderCog.displayName = "SvgFolderCog";
+var FolderCog_default = SvgFolderCog;
+
+// icons/FolderDot.tsx
+import * as React641 from "react";
+var SvgFolderDot = React641.forwardRef(
+  (props, ref) => /* @__PURE__ */ React641.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React641.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM6 5h1v1H6zM10 5h1v1h-1zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderDot.displayName = "SvgFolderDot";
+var FolderDot_default = SvgFolderDot;
+
+// icons/FolderDown.tsx
+import * as React642 from "react";
+var SvgFolderDown = React642.forwardRef(
+  (props, ref) => /* @__PURE__ */ React642.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React642.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM5 4h1v1H5zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderDown.displayName = "SvgFolderDown";
+var FolderDown_default = SvgFolderDown;
+
+// icons/FolderGit.tsx
+import * as React643 from "react";
+var SvgFolderGit = React643.forwardRef(
+  (props, ref) => /* @__PURE__ */ React643.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React643.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM4 6h1v1H4zM6 6h1v1H6zM7 6h1v1H7zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderGit.displayName = "SvgFolderGit";
+var FolderGit_default = SvgFolderGit;
+
+// icons/FolderGit2.tsx
+import * as React644 from "react";
+var SvgFolderGit2 = React644.forwardRef(
+  (props, ref) => /* @__PURE__ */ React644.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React644.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM1 8h1v1H1zM5 8h1v1H5zM6 8h1v1H6zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM5 9h1v1H5zM7 9h1v1H7zM8 9h1v1H8zM10 9h1v1h-1zM5 10h1v1H5zM9 10h1v1H9z" })
+  )
+);
+SvgFolderGit2.displayName = "SvgFolderGit2";
+var FolderGit2_default = SvgFolderGit2;
+
+// icons/FolderHeart.tsx
+import * as React645 from "react";
+var SvgFolderHeart = React645.forwardRef(
+  (props, ref) => /* @__PURE__ */ React645.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React645.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM1 6h1v1H1zM7 6h1v1H7zM9 6h1v1H9zM1 7h1v1H1zM6 7h1v1H6zM8 7h1v1H8zM10 7h1v1h-1zM1 8h1v1H1zM7 8h1v1H7zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM8 9h1v1H8z" })
+  )
+);
+SvgFolderHeart.displayName = "SvgFolderHeart";
+var FolderHeart_default = SvgFolderHeart;
+
+// icons/FolderInput.tsx
+import * as React646 from "react";
+var SvgFolderInput = React646.forwardRef(
+  (props, ref) => /* @__PURE__ */ React646.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React646.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM3 5h1v1H3zM10 5h1v1h-1zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM10 6h1v1h-1zM3 7h1v1H3zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderInput.displayName = "SvgFolderInput";
+var FolderInput_default = SvgFolderInput;
+
+// icons/FolderKanban.tsx
+import * as React647 from "react";
+var SvgFolderKanban = React647.forwardRef(
+  (props, ref) => /* @__PURE__ */ React647.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React647.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM3 5h1v1H3zM5 5h1v1H5zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM7 6h1v1H7zM10 6h1v1h-1zM1 7h1v1H1zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderKanban.displayName = "SvgFolderKanban";
+var FolderKanban_default = SvgFolderKanban;
+
+// icons/FolderKey.tsx
+import * as React648 from "react";
+var SvgFolderKey = React648.forwardRef(
+  (props, ref) => /* @__PURE__ */ React648.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React648.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM1 6h1v1H1zM10 6h1v1h-1zM1 7h1v1H1zM9 7h1v1H9zM1 8h1v1H1zM7 8h1v1H7zM8 8h1v1H8zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM6 9h1v1H6zM8 9h1v1H8zM7 10h1v1H7z" })
+  )
+);
+SvgFolderKey.displayName = "SvgFolderKey";
+var FolderKey_default = SvgFolderKey;
+
+// icons/FolderLock.tsx
+import * as React649 from "react";
+var SvgFolderLock = React649.forwardRef(
+  (props, ref) => /* @__PURE__ */ React649.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React649.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM1 6h1v1H1zM9 6h1v1H9zM1 7h1v1H1zM8 7h1v1H8zM9 7h1v1H9zM1 8h1v1H1zM7 8h1v1H7zM8 8h1v1H8zM9 8h1v1H9zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM7 9h1v1H7zM10 9h1v1h-1zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgFolderLock.displayName = "SvgFolderLock";
+var FolderLock_default = SvgFolderLock;
+
+// icons/FolderMinus.tsx
+import * as React650 from "react";
+var SvgFolderMinus = React650.forwardRef(
+  (props, ref) => /* @__PURE__ */ React650.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React650.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM10 6h1v1h-1zM1 7h1v1H1zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderMinus.displayName = "SvgFolderMinus";
+var FolderMinus_default = SvgFolderMinus;
+
+// icons/FolderOpen.tsx
+import * as React651 from "react";
+var SvgFolderOpen = React651.forwardRef(
+  (props, ref) => /* @__PURE__ */ React651.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React651.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM10 5h1v1h-1zM11 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM11 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderOpen.displayName = "SvgFolderOpen";
+var FolderOpen_default = SvgFolderOpen;
+
+// icons/FolderOpenDot.tsx
+import * as React652 from "react";
+var SvgFolderOpenDot = React652.forwardRef(
+  (props, ref) => /* @__PURE__ */ React652.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React652.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM10 5h1v1h-1zM11 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM11 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM7 7h1v1H7zM8 7h1v1H8zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderOpenDot.displayName = "SvgFolderOpenDot";
+var FolderOpenDot_default = SvgFolderOpenDot;
+
+// icons/FolderOutput.tsx
+import * as React653 from "react";
+var SvgFolderOutput = React653.forwardRef(
+  (props, ref) => /* @__PURE__ */ React653.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React653.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM10 4h1v1h-1zM2 5h1v1H2zM10 5h1v1h-1zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM10 6h1v1h-1zM2 7h1v1H2zM10 7h1v1h-1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderOutput.displayName = "SvgFolderOutput";
+var FolderOutput_default = SvgFolderOutput;
+
+// icons/FolderPen.tsx
+import * as React654 from "react";
+var SvgFolderPen = React654.forwardRef(
+  (props, ref) => /* @__PURE__ */ React654.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React654.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM5 5h1v1H5zM10 5h1v1h-1zM3 6h1v1H3zM5 6h1v1H5zM10 6h1v1h-1zM2 7h1v1H2zM4 7h1v1H4zM10 7h1v1h-1zM1 8h1v1H1zM3 8h1v1H3zM10 8h1v1h-1zM1 9h1v1H1zM2 9h1v1H2zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderPen.displayName = "SvgFolderPen";
+var FolderPen_default = SvgFolderPen;
+
+// icons/FolderPlus.tsx
+import * as React655 from "react";
+var SvgFolderPlus = React655.forwardRef(
+  (props, ref) => /* @__PURE__ */ React655.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React655.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderPlus.displayName = "SvgFolderPlus";
+var FolderPlus_default = SvgFolderPlus;
+
+// icons/FolderRoot.tsx
+import * as React656 from "react";
+var SvgFolderRoot = React656.forwardRef(
+  (props, ref) => /* @__PURE__ */ React656.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React656.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM5 8h1v1H5zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderRoot.displayName = "SvgFolderRoot";
+var FolderRoot_default = SvgFolderRoot;
+
+// icons/FolderSearch.tsx
+import * as React657 from "react";
+var SvgFolderSearch = React657.forwardRef(
+  (props, ref) => /* @__PURE__ */ React657.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React657.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM7 5h1v1H7zM8 5h1v1H8zM1 6h1v1H1zM6 6h1v1H6zM9 6h1v1H9zM1 7h1v1H1zM6 7h1v1H6zM9 7h1v1H9zM1 8h1v1H1zM7 8h1v1H7zM8 8h1v1H8zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM10 9h1v1h-1z" })
+  )
+);
+SvgFolderSearch.displayName = "SvgFolderSearch";
+var FolderSearch_default = SvgFolderSearch;
+
+// icons/FolderSearch2.tsx
+import * as React658 from "react";
+var SvgFolderSearch2 = React658.forwardRef(
+  (props, ref) => /* @__PURE__ */ React658.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React658.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM5 4h1v1H5zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM6 5h1v1H6zM10 5h1v1h-1zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderSearch2.displayName = "SvgFolderSearch2";
+var FolderSearch2_default = SvgFolderSearch2;
+
+// icons/FolderSymlink.tsx
+import * as React659 from "react";
+var SvgFolderSymlink = React659.forwardRef(
+  (props, ref) => /* @__PURE__ */ React659.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React659.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM4 5h1v1H4zM10 5h1v1h-1zM1 6h1v1H1zM2 6h1v1H2zM3 6h1v1H3zM4 6h1v1H4zM5 6h1v1H5zM10 6h1v1h-1zM1 7h1v1H1zM4 7h1v1H4zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderSymlink.displayName = "SvgFolderSymlink";
+var FolderSymlink_default = SvgFolderSymlink;
+
+// icons/FolderSync.tsx
+import * as React660 from "react";
+var SvgFolderSync = React660.forwardRef(
+  (props, ref) => /* @__PURE__ */ React660.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React660.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM1 5h1v1H1zM5 5h1v1H5zM7 5h1v1H7zM8 5h1v1H8zM9 5h1v1H9zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM1 8h1v1H1zM2 9h1v1H2zM3 9h1v1H3zM8 9h1v1H8zM9 9h1v1H9zM10 9h1v1h-1zM5 10h1v1H5zM9 10h1v1H9zM10 10h1v1h-1zM6 11h1v1H6zM7 11h1v1H7zM8 11h1v1H8zM10 11h1v1h-1z" })
+  )
+);
+SvgFolderSync.displayName = "SvgFolderSync";
+var FolderSync_default = SvgFolderSync;
+
+// icons/FolderTree.tsx
+import * as React661 from "react";
+var SvgFolderTree = React661.forwardRef(
+  (props, ref) => /* @__PURE__ */ React661.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React661.createElement("path", { d: "M5 0h1v1H5zM6 0h1v1H6zM7 0h1v1H7zM1 1h1v1H1zM5 1h1v1H5zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM5 2h1v1H5zM10 2h1v1h-1zM1 3h1v1H1zM2 3h1v1H2zM3 3h1v1H3zM5 3h1v1H5zM10 3h1v1h-1zM1 4h1v1H1zM5 4h1v1H5zM6 4h1v1H6zM7 4h1v1H7zM8 4h1v1H8zM9 4h1v1H9zM10 4h1v1h-1zM1 5h1v1H1zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM7 6h1v1H7zM1 7h1v1H1zM5 7h1v1H5zM7 7h1v1H7zM8 7h1v1H8zM9 7h1v1H9zM1 8h1v1H1zM2 8h1v1H2zM3 8h1v1H3zM5 8h1v1H5zM10 8h1v1h-1zM5 9h1v1H5zM10 9h1v1h-1zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgFolderTree.displayName = "SvgFolderTree";
+var FolderTree_default = SvgFolderTree;
+
+// icons/FolderUp.tsx
+import * as React662 from "react";
+var SvgFolderUp = React662.forwardRef(
+  (props, ref) => /* @__PURE__ */ React662.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React662.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM5 4h1v1H5zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM5 5h1v1H5zM6 5h1v1H6zM10 5h1v1h-1zM1 6h1v1H1zM5 6h1v1H5zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderUp.displayName = "SvgFolderUp";
+var FolderUp_default = SvgFolderUp;
+
+// icons/FolderX.tsx
+import * as React663 from "react";
+var SvgFolderX = React663.forwardRef(
+  (props, ref) => /* @__PURE__ */ React663.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React663.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM1 2h1v1H1zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM6 5h1v1H6zM10 5h1v1h-1zM1 6h1v1H1zM5 6h1v1H5zM10 6h1v1h-1zM1 7h1v1H1zM4 7h1v1H4zM6 7h1v1H6zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
+  )
+);
+SvgFolderX.displayName = "SvgFolderX";
+var FolderX_default = SvgFolderX;
+
+// icons/Folders.tsx
+import * as React664 from "react";
+var SvgFolders = React664.forwardRef(
+  (props, ref) => /* @__PURE__ */ React664.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React664.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM2 2h1v1H2zM6 2h1v1H6zM0 3h1v1H0zM2 3h1v1H2zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM0 4h1v1H0zM2 4h1v1H2zM10 4h1v1h-1zM0 5h1v1H0zM2 5h1v1H2zM10 5h1v1h-1zM0 6h1v1H0zM2 6h1v1H2zM10 6h1v1h-1zM0 7h1v1H0zM2 7h1v1H2zM10 7h1v1h-1zM0 8h1v1H0zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM9 8h1v1H9zM0 9h1v1H0zM1 10h1v1H1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8z" })
+  )
+);
+SvgFolders.displayName = "SvgFolders";
+var Folders_default = SvgFolders;
+
+// icons/Github.tsx
+import * as React665 from "react";
+var SvgGithub = React665.forwardRef(
+  (props, ref) => /* @__PURE__ */ React665.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React665.createElement("path", { d: "M1 1h1v1H1zM2 1h1v1H2zM9 1h1v1H9zM10 1h1v1h-1zM1 2h1v1H1zM3 2h1v1H3zM8 2h1v1H8zM10 2h1v1h-1zM1 3h1v1H1zM2 3h1v1H2zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM9 3h1v1H9zM10 3h1v1h-1zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM2 7h1v1H2zM9 7h1v1H9zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM8 8h1v1H8zM1 9h1v1H1zM4 9h1v1H4zM7 9h1v1H7zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM7 10h1v1H7zM4 11h1v1H4zM7 11h1v1H7z" })
+  )
+);
+SvgGithub.displayName = "SvgGithub";
+var Github_default = SvgGithub;
+
+// icons/Instagram.tsx
+import * as React666 from "react";
+var SvgInstagram = React666.forwardRef(
+  (props, ref) => /* @__PURE__ */ React666.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React666.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM8 3h1v1H8zM10 3h1v1h-1zM1 4h1v1H1zM5 4h1v1H5zM6 4h1v1H6zM10 4h1v1h-1zM1 5h1v1H1zM4 5h1v1H4zM7 5h1v1H7zM10 5h1v1h-1zM1 6h1v1H1zM4 6h1v1H4zM7 6h1v1H7zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM6 7h1v1H6zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgInstagram.displayName = "SvgInstagram";
+var Instagram_default = SvgInstagram;
+
+// icons/Link.tsx
+import * as React667 from "react";
+var SvgLink = React667.forwardRef(
+  (props, ref) => /* @__PURE__ */ React667.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React667.createElement("path", { d: "M7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM6 2h1v1H6zM10 2h1v1h-1zM10 3h1v1h-1zM4 4h1v1H4zM5 4h1v1H5zM10 4h1v1h-1zM3 5h1v1H3zM6 5h1v1H6zM9 5h1v1H9zM2 6h1v1H2zM5 6h1v1H5zM8 6h1v1H8zM1 7h1v1H1zM6 7h1v1H6zM7 7h1v1H7zM1 8h1v1H1zM1 9h1v1H1zM5 9h1v1H5zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4z" })
+  )
+);
+SvgLink.displayName = "SvgLink";
+var Link_default = SvgLink;
+
+// icons/Moon.tsx
+import * as React668 from "react";
+var SvgMoon = React668.forwardRef(
+  (props, ref) => /* @__PURE__ */ React668.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React668.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM3 2h1v1H3zM5 2h1v1H5zM2 3h1v1H2zM4 3h1v1H4zM1 4h1v1H1zM4 4h1v1H4zM1 5h1v1H1zM4 5h1v1H4zM1 6h1v1H1zM5 6h1v1H5zM9 6h1v1H9zM10 6h1v1h-1zM1 7h1v1H1zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM10 7h1v1h-1zM2 8h1v1H2zM9 8h1v1H9zM3 9h1v1H3zM8 9h1v1H8zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7z" })
+  )
+);
+SvgMoon.displayName = "SvgMoon";
+var Moon_default = SvgMoon;
+
+// icons/PackageCheck.tsx
+import * as React669 from "react";
+var SvgPackageCheck = React669.forwardRef(
+  (props, ref) => /* @__PURE__ */ React669.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React669.createElement("path", { d: "M5 1h1v1H5zM6 1h1v1H6zM3 2h1v1H3zM4 2h1v1H4zM7 2h1v1H7zM8 2h1v1H8zM1 3h1v1H1zM2 3h1v1H2zM5 3h1v1H5zM6 3h1v1H6zM9 3h1v1H9zM10 3h1v1h-1zM1 4h1v1H1zM3 4h1v1H3zM4 4h1v1H4zM7 4h1v1H7zM8 4h1v1H8zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM6 5h1v1H6zM1 6h1v1H1zM5 6h1v1H5zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM2 8h1v1H2zM5 8h1v1H5zM7 8h1v1H7zM9 8h1v1H9zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM8 9h1v1H8zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgPackageCheck.displayName = "SvgPackageCheck";
+var PackageCheck_default = SvgPackageCheck;
+
+// icons/Palette.tsx
+import * as React670 from "react";
+var SvgPalette = React670.forwardRef(
+  (props, ref) => /* @__PURE__ */ React670.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React670.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM2 2h1v1H2zM9 2h1v1H9zM1 3h1v1H1zM6 3h1v1H6zM10 3h1v1h-1zM1 4h1v1H1zM4 4h1v1H4zM8 4h1v1H8zM10 4h1v1h-1zM1 5h1v1H1zM10 5h1v1h-1zM1 6h1v1H1zM3 6h1v1H3zM8 6h1v1H8zM9 6h1v1H9zM1 7h1v1H1zM7 7h1v1H7zM1 8h1v1H1zM6 8h1v1H6zM2 9h1v1H2zM7 9h1v1H7zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgPalette.displayName = "SvgPalette";
+var Palette_default = SvgPalette;
+
+// icons/Pickaxe.tsx
+import * as React671 from "react";
+var SvgPickaxe = React671.forwardRef(
+  (props, ref) => /* @__PURE__ */ React671.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React671.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM2 2h1v1H2zM6 2h1v1H6zM7 2h1v1H7zM2 3h1v1H2zM3 3h1v1H3zM5 3h1v1H5zM6 3h1v1H6zM8 3h1v1H8zM4 4h1v1H4zM5 4h1v1H5zM9 4h1v1H9zM4 5h1v1H4zM8 5h1v1H8zM9 5h1v1H9zM3 6h1v1H3zM5 6h1v1H5zM7 6h1v1H7zM8 6h1v1H8zM10 6h1v1h-1zM2 7h1v1H2zM6 7h1v1H6zM7 7h1v1H7zM10 7h1v1h-1zM1 8h1v1H1zM5 8h1v1H5zM8 8h1v1H8zM10 8h1v1h-1zM1 9h1v1H1zM4 9h1v1H4zM8 9h1v1H8zM9 9h1v1H9zM2 10h1v1H2zM3 10h1v1H3z" })
+  )
+);
+SvgPickaxe.displayName = "SvgPickaxe";
+var Pickaxe_default = SvgPickaxe;
+
+// icons/ScanFace.tsx
+import * as React672 from "react";
+var SvgScanFace = React672.forwardRef(
+  (props, ref) => /* @__PURE__ */ React672.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React672.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM10 3h1v1h-1zM4 4h1v1H4zM7 4h1v1H7zM3 7h1v1H3zM8 7h1v1H8zM1 8h1v1H1zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgScanFace.displayName = "SvgScanFace";
+var ScanFace_default = SvgScanFace;
+
+// icons/Search.tsx
+import * as React673 from "react";
+var SvgSearch = React673.forwardRef(
+  (props, ref) => /* @__PURE__ */ React673.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React673.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM2 2h1v1H2zM7 2h1v1H7zM1 3h1v1H1zM8 3h1v1H8zM1 4h1v1H1zM8 4h1v1H8zM1 5h1v1H1zM8 5h1v1H8zM1 6h1v1H1zM8 6h1v1H8zM2 7h1v1H2zM7 7h1v1H7zM3 8h1v1H3zM4 8h1v1H4zM5 8h1v1H5zM6 8h1v1H6zM8 8h1v1H8zM9 9h1v1H9zM10 10h1v1h-1z" })
+  )
+);
+SvgSearch.displayName = "SvgSearch";
+var Search_default = SvgSearch;
+
+// icons/SquareMenu.tsx
+import * as React674 from "react";
+var SvgSquareMenu = React674.forwardRef(
+  (props, ref) => /* @__PURE__ */ React674.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React674.createElement("path", { d: "M2 1h1v1H2zM3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM7 1h1v1H7zM8 1h1v1H8zM9 1h1v1H9zM1 2h1v1H1zM10 2h1v1h-1zM1 3h1v1H1zM3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM10 3h1v1h-1zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM6 5h1v1H6zM7 5h1v1H7zM8 5h1v1H8zM10 5h1v1h-1zM1 6h1v1H1zM10 6h1v1h-1zM1 7h1v1H1zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM7 7h1v1H7zM8 7h1v1H8zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM1 9h1v1H1zM10 9h1v1h-1zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9z" })
+  )
+);
+SvgSquareMenu.displayName = "SvgSquareMenu";
+var SquareMenu_default = SvgSquareMenu;
+
+// icons/Sun.tsx
+import * as React675 from "react";
+var SvgSun = React675.forwardRef(
+  (props, ref) => /* @__PURE__ */ React675.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React675.createElement("path", { d: "M6 0h1v1H6zM2 1h1v1H2zM6 1h1v1H6zM3 2h1v1H3zM10 2h1v1h-1zM5 3h1v1H5zM6 3h1v1H6zM9 3h1v1H9zM4 4h1v1H4zM7 4h1v1H7zM0 5h1v1H0zM1 5h1v1H1zM3 5h1v1H3zM8 5h1v1H8zM3 6h1v1H3zM8 6h1v1H8zM10 6h1v1h-1zM11 6h1v1h-1zM4 7h1v1H4zM7 7h1v1H7zM2 8h1v1H2zM5 8h1v1H5zM6 8h1v1H6zM1 9h1v1H1zM8 9h1v1H8zM5 10h1v1H5zM9 10h1v1H9zM5 11h1v1H5z" })
+  )
+);
+SvgSun.displayName = "SvgSun";
+var Sun_default = SvgSun;
+
+// icons/SunDim.tsx
+import * as React676 from "react";
+var SvgSunDim = React676.forwardRef(
+  (props, ref) => /* @__PURE__ */ React676.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React676.createElement("path", { d: "M6 1h1v1H6zM3 2h1v1H3zM5 3h1v1H5zM6 3h1v1H6zM9 3h1v1H9zM4 4h1v1H4zM7 4h1v1H7zM1 5h1v1H1zM3 5h1v1H3zM8 5h1v1H8zM3 6h1v1H3zM8 6h1v1H8zM10 6h1v1h-1zM4 7h1v1H4zM7 7h1v1H7zM2 8h1v1H2zM5 8h1v1H5zM6 8h1v1H6zM8 9h1v1H8zM5 10h1v1H5z" })
+  )
+);
+SvgSunDim.displayName = "SvgSunDim";
+var SunDim_default = SvgSunDim;
+
+// icons/TreeDeciduous.tsx
+import * as React677 from "react";
+var SvgTreeDeciduous = React677.forwardRef(
+  (props, ref) => /* @__PURE__ */ React677.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React677.createElement("path", { d: "M4 1h1v1H4zM5 1h1v1H5zM6 1h1v1H6zM3 2h1v1H3zM7 2h1v1H7zM2 3h1v1H2zM3 3h1v1H3zM7 3h1v1H7zM8 3h1v1H8zM1 4h1v1H1zM9 4h1v1H9zM1 5h1v1H1zM9 5h1v1H9zM2 6h1v1H2zM3 6h1v1H3zM7 6h1v1H7zM8 6h1v1H8zM1 7h1v1H1zM9 7h1v1H9zM1 8h1v1H1zM9 8h1v1H9zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM5 10h1v1H5z" })
+  )
+);
+SvgTreeDeciduous.displayName = "SvgTreeDeciduous";
+var TreeDeciduous_default = SvgTreeDeciduous;
+
+// icons/Twitter.tsx
+import * as React678 from "react";
+var SvgTwitter = React678.forwardRef(
+  (props, ref) => /* @__PURE__ */ React678.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React678.createElement("path", { d: "M6 2h1v1H6zM7 2h1v1H7zM10 2h1v1h-1zM1 3h1v1H1zM2 3h1v1H2zM5 3h1v1H5zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM3 4h1v1H3zM5 4h1v1H5zM9 4h1v1H9zM1 5h1v1H1zM4 5h1v1H4zM9 5h1v1H9zM1 6h1v1H1zM9 6h1v1H9zM2 7h1v1H2zM3 7h1v1H3zM9 7h1v1H9zM2 8h1v1H2zM8 8h1v1H8zM1 9h1v1H1zM7 9h1v1H7zM2 10h1v1H2zM3 10h1v1H3zM4 10h1v1H4zM5 10h1v1H5zM6 10h1v1H6z" })
+  )
+);
+SvgTwitter.displayName = "SvgTwitter";
+var Twitter_default = SvgTwitter;
+
+// icons/Users.tsx
+import * as React679 from "react";
+var SvgUsers = React679.forwardRef(
+  (props, ref) => /* @__PURE__ */ React679.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React679.createElement("path", { d: "M3 1h1v1H3zM4 1h1v1H4zM5 1h1v1H5zM8 1h1v1H8zM2 2h1v1H2zM6 2h1v1H6zM9 2h1v1H9zM2 3h1v1H2zM6 3h1v1H6zM9 3h1v1H9zM2 4h1v1H2zM6 4h1v1H6zM9 4h1v1H9zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5zM8 5h1v1H8zM2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6zM9 7h1v1H9zM1 8h1v1H1zM7 8h1v1H7zM10 8h1v1h-1zM1 9h1v1H1zM7 9h1v1H7zM10 9h1v1h-1zM1 10h1v1H1zM7 10h1v1H7zM10 10h1v1h-1z" })
+  )
+);
+SvgUsers.displayName = "SvgUsers";
+var Users_default = SvgUsers;
+
+// icons/Youtube.tsx
+import * as React680 from "react";
+var SvgYoutube = React680.forwardRef(
+  (props, ref) => /* @__PURE__ */ React680.createElement(
+    "svg",
+    {
+      xmlns: "http://www.w3.org/2000/svg",
+      width: "1em",
+      height: "1em",
+      viewBox: "0 0 12 12",
+      fill: "currentColor",
+      shapeRendering: "crispEdges",
+      ref,
+      ...props
+    },
+    /* @__PURE__ */ React680.createElement("path", { d: "M2 3h1v1H2zM3 3h1v1H3zM4 3h1v1H4zM5 3h1v1H5zM6 3h1v1H6zM7 3h1v1H7zM8 3h1v1H8zM9 3h1v1H9zM1 4h1v1H1zM10 4h1v1h-1zM1 5h1v1H1zM5 5h1v1H5zM10 5h1v1h-1zM1 6h1v1H1zM5 6h1v1H5zM6 6h1v1H6zM10 6h1v1h-1zM1 7h1v1H1zM5 7h1v1H5zM10 7h1v1h-1zM1 8h1v1H1zM10 8h1v1h-1zM2 9h1v1H2zM3 9h1v1H3zM4 9h1v1H4zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7zM8 9h1v1H8zM9 9h1v1H9z" })
   )
 );
 SvgYoutube.displayName = "SvgYoutube";
@@ -11793,9 +14796,152 @@ export {
   Drum_default as Drum,
   Drumstick_default as Drumstick,
   Dumbbell_default as Dumbbell,
+  Ear_default as Ear,
+  EarOff_default as EarOff,
+  Earth_default as Earth,
+  EarthLock_default as EarthLock,
+  Eclipse_default as Eclipse,
+  Egg_default as Egg,
+  EggFried_default as EggFried,
+  EggOff_default as EggOff,
   Ellipsis_default as Ellipsis,
+  EllipsisVertical_default as EllipsisVertical,
+  Equal_default as Equal,
+  EqualApproximately_default as EqualApproximately,
+  EqualNot_default as EqualNot,
+  Eraser_default as Eraser,
+  EthernetPort_default as EthernetPort,
+  Euro_default as Euro,
   Expand_default as Expand,
+  ExternalLink_default as ExternalLink,
+  Eye_default as Eye,
+  EyeClosed_default as EyeClosed,
+  EyeOff_default as EyeOff,
+  Facebook_default as Facebook,
+  Factory_default as Factory,
+  Fan_default as Fan,
+  FastForward_default as FastForward,
+  Feather_default as Feather,
+  Fence_default as Fence,
+  FerrisWheel_default as FerrisWheel,
+  Figma_default as Figma,
+  File_default as File,
+  FileArchive_default as FileArchive,
+  FileAudio_default as FileAudio,
+  FileAudio2_default as FileAudio2,
+  FileAxis3D_default as FileAxis3D,
+  FileBadge_default as FileBadge,
+  FileBadge2_default as FileBadge2,
+  FileBox_default as FileBox,
+  FileChartColumn_default as FileChartColumn,
+  FileChartColumnIncreasing_default as FileChartColumnIncreasing,
+  FileChartLine_default as FileChartLine,
+  FileChartPie_default as FileChartPie,
+  FileCheck_default as FileCheck,
+  FileCheck2_default as FileCheck2,
+  FileClock_default as FileClock,
+  FileCode_default as FileCode,
   FileCode2_default as FileCode2,
+  FileCog_default as FileCog,
+  FileDiff_default as FileDiff,
+  FileDigit_default as FileDigit,
+  FileDown_default as FileDown,
+  FileHeart_default as FileHeart,
+  FileImage_default as FileImage,
+  FileInput_default as FileInput,
+  FileJson_default as FileJson,
+  FileJson2_default as FileJson2,
+  FileKey_default as FileKey,
+  FileKey2_default as FileKey2,
+  FileLock_default as FileLock,
+  FileLock2_default as FileLock2,
+  FileMinus_default as FileMinus,
+  FileMinus2_default as FileMinus2,
+  FileMusic_default as FileMusic,
+  FileOutput_default as FileOutput,
+  FilePen_default as FilePen,
+  FilePenLine_default as FilePenLine,
+  FilePlus_default as FilePlus,
+  FilePlus2_default as FilePlus2,
+  FileQuestion_default as FileQuestion,
+  FileScan_default as FileScan,
+  FileSearch_default as FileSearch,
+  FileSearch2_default as FileSearch2,
+  FileSliders_default as FileSliders,
+  FileSpreadsheet_default as FileSpreadsheet,
+  FileStack_default as FileStack,
+  FileSymlink_default as FileSymlink,
+  FileTerminal_default as FileTerminal,
+  FileText_default as FileText,
+  FileType_default as FileType,
+  FileType2_default as FileType2,
+  FileUp_default as FileUp,
+  FileUser_default as FileUser,
+  FileVideo_default as FileVideo,
+  FileVideo2_default as FileVideo2,
+  FileVolume_default as FileVolume,
+  FileVolume2_default as FileVolume2,
+  FileWarning_default as FileWarning,
+  FileX_default as FileX,
+  FileX2_default as FileX2,
+  Files_default as Files,
+  Film_default as Film,
+  Fingerprint_default as Fingerprint,
+  FireExtinguisher_default as FireExtinguisher,
+  Fish_default as Fish,
+  FishOff_default as FishOff,
+  FishSymbol_default as FishSymbol,
+  Flag_default as Flag,
+  FlagOff_default as FlagOff,
+  FlagTriangleLeft_default as FlagTriangleLeft,
+  FlagTriangleRight_default as FlagTriangleRight,
+  Flame_default as Flame,
+  FlameKindling_default as FlameKindling,
+  Flashlight_default as Flashlight,
+  FlashlightOff_default as FlashlightOff,
+  FlaskConical_default as FlaskConical,
+  FlaskConicalOff_default as FlaskConicalOff,
+  FlaskRound_default as FlaskRound,
+  FlipHorizontal_default as FlipHorizontal,
+  FlipHorizontal2_default as FlipHorizontal2,
+  FlipVertical_default as FlipVertical,
+  FlipVertical2_default as FlipVertical2,
+  Flower_default as Flower,
+  Flower2_default as Flower2,
+  Focus_default as Focus,
+  FoldHorizontal_default as FoldHorizontal,
+  FoldVertical_default as FoldVertical,
+  Folder_default as Folder,
+  FolderArchive_default as FolderArchive,
+  FolderCheck_default as FolderCheck,
+  FolderClock_default as FolderClock,
+  FolderClosed_default as FolderClosed,
+  FolderCode_default as FolderCode,
+  FolderCog_default as FolderCog,
+  FolderDot_default as FolderDot,
+  FolderDown_default as FolderDown,
+  FolderGit_default as FolderGit,
+  FolderGit2_default as FolderGit2,
+  FolderHeart_default as FolderHeart,
+  FolderInput_default as FolderInput,
+  FolderKanban_default as FolderKanban,
+  FolderKey_default as FolderKey,
+  FolderLock_default as FolderLock,
+  FolderMinus_default as FolderMinus,
+  FolderOpen_default as FolderOpen,
+  FolderOpenDot_default as FolderOpenDot,
+  FolderOutput_default as FolderOutput,
+  FolderPen_default as FolderPen,
+  FolderPlus_default as FolderPlus,
+  FolderRoot_default as FolderRoot,
+  FolderSearch_default as FolderSearch,
+  FolderSearch2_default as FolderSearch2,
+  FolderSymlink_default as FolderSymlink,
+  FolderSync_default as FolderSync,
+  FolderTree_default as FolderTree,
+  FolderUp_default as FolderUp,
+  FolderX_default as FolderX,
+  Folders_default as Folders,
   Github_default as Github,
   Instagram_default as Instagram,
   Link_default as Link,

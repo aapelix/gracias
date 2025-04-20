@@ -2072,17 +2072,589 @@ interface SvgDumbbellProps extends React.SVGAttributes<SVGElement> {
 }
 declare const SvgDumbbell: React.ForwardRefExoticComponent<SvgDumbbellProps & React.RefAttributes<SVGSVGElement>>;
 
+interface SvgEarProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEar: React.ForwardRefExoticComponent<SvgEarProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEarOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEarOff: React.ForwardRefExoticComponent<SvgEarOffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEarthProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEarth: React.ForwardRefExoticComponent<SvgEarthProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEarthLockProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEarthLock: React.ForwardRefExoticComponent<SvgEarthLockProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEclipseProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEclipse: React.ForwardRefExoticComponent<SvgEclipseProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEggProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEgg: React.ForwardRefExoticComponent<SvgEggProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEggFriedProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEggFried: React.ForwardRefExoticComponent<SvgEggFriedProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEggOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEggOff: React.ForwardRefExoticComponent<SvgEggOffProps & React.RefAttributes<SVGSVGElement>>;
+
 interface SvgEllipsisProps extends React.SVGAttributes<SVGElement> {
 }
 declare const SvgEllipsis: React.ForwardRefExoticComponent<SvgEllipsisProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEllipsisVerticalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEllipsisVertical: React.ForwardRefExoticComponent<SvgEllipsisVerticalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEqualProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEqual: React.ForwardRefExoticComponent<SvgEqualProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEqualApproximatelyProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEqualApproximately: React.ForwardRefExoticComponent<SvgEqualApproximatelyProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEqualNotProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEqualNot: React.ForwardRefExoticComponent<SvgEqualNotProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEraserProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEraser: React.ForwardRefExoticComponent<SvgEraserProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEthernetPortProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEthernetPort: React.ForwardRefExoticComponent<SvgEthernetPortProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEuroProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEuro: React.ForwardRefExoticComponent<SvgEuroProps & React.RefAttributes<SVGSVGElement>>;
 
 interface SvgExpandProps extends React.SVGAttributes<SVGElement> {
 }
 declare const SvgExpand: React.ForwardRefExoticComponent<SvgExpandProps & React.RefAttributes<SVGSVGElement>>;
 
+interface SvgExternalLinkProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgExternalLink: React.ForwardRefExoticComponent<SvgExternalLinkProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEyeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEye: React.ForwardRefExoticComponent<SvgEyeProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEyeClosedProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEyeClosed: React.ForwardRefExoticComponent<SvgEyeClosedProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgEyeOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgEyeOff: React.ForwardRefExoticComponent<SvgEyeOffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFacebookProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFacebook: React.ForwardRefExoticComponent<SvgFacebookProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFactoryProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFactory: React.ForwardRefExoticComponent<SvgFactoryProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFanProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFan: React.ForwardRefExoticComponent<SvgFanProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFastForwardProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFastForward: React.ForwardRefExoticComponent<SvgFastForwardProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFeatherProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFeather: React.ForwardRefExoticComponent<SvgFeatherProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFenceProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFence: React.ForwardRefExoticComponent<SvgFenceProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFerrisWheelProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFerrisWheel: React.ForwardRefExoticComponent<SvgFerrisWheelProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFigmaProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFigma: React.ForwardRefExoticComponent<SvgFigmaProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFile: React.ForwardRefExoticComponent<SvgFileProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileArchiveProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileArchive: React.ForwardRefExoticComponent<SvgFileArchiveProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileAudioProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileAudio: React.ForwardRefExoticComponent<SvgFileAudioProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileAudio2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileAudio2: React.ForwardRefExoticComponent<SvgFileAudio2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileAxis3DProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileAxis3D: React.ForwardRefExoticComponent<SvgFileAxis3DProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileBadgeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileBadge: React.ForwardRefExoticComponent<SvgFileBadgeProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileBadge2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileBadge2: React.ForwardRefExoticComponent<SvgFileBadge2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileBoxProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileBox: React.ForwardRefExoticComponent<SvgFileBoxProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileChartColumnProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileChartColumn: React.ForwardRefExoticComponent<SvgFileChartColumnProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileChartColumnIncreasingProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileChartColumnIncreasing: React.ForwardRefExoticComponent<SvgFileChartColumnIncreasingProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileChartLineProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileChartLine: React.ForwardRefExoticComponent<SvgFileChartLineProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileChartPieProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileChartPie: React.ForwardRefExoticComponent<SvgFileChartPieProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileCheckProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileCheck: React.ForwardRefExoticComponent<SvgFileCheckProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileCheck2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileCheck2: React.ForwardRefExoticComponent<SvgFileCheck2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileClockProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileClock: React.ForwardRefExoticComponent<SvgFileClockProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileCodeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileCode: React.ForwardRefExoticComponent<SvgFileCodeProps & React.RefAttributes<SVGSVGElement>>;
+
 interface SvgFileCode2Props extends React.SVGAttributes<SVGElement> {
 }
 declare const SvgFileCode2: React.ForwardRefExoticComponent<SvgFileCode2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileCogProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileCog: React.ForwardRefExoticComponent<SvgFileCogProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileDiffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileDiff: React.ForwardRefExoticComponent<SvgFileDiffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileDigitProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileDigit: React.ForwardRefExoticComponent<SvgFileDigitProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileDownProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileDown: React.ForwardRefExoticComponent<SvgFileDownProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileHeartProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileHeart: React.ForwardRefExoticComponent<SvgFileHeartProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileImageProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileImage: React.ForwardRefExoticComponent<SvgFileImageProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileInputProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileInput: React.ForwardRefExoticComponent<SvgFileInputProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileJsonProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileJson: React.ForwardRefExoticComponent<SvgFileJsonProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileJson2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileJson2: React.ForwardRefExoticComponent<SvgFileJson2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileKeyProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileKey: React.ForwardRefExoticComponent<SvgFileKeyProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileKey2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileKey2: React.ForwardRefExoticComponent<SvgFileKey2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileLockProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileLock: React.ForwardRefExoticComponent<SvgFileLockProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileLock2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileLock2: React.ForwardRefExoticComponent<SvgFileLock2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileMinusProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileMinus: React.ForwardRefExoticComponent<SvgFileMinusProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileMinus2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileMinus2: React.ForwardRefExoticComponent<SvgFileMinus2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileMusicProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileMusic: React.ForwardRefExoticComponent<SvgFileMusicProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileOutputProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileOutput: React.ForwardRefExoticComponent<SvgFileOutputProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFilePenProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFilePen: React.ForwardRefExoticComponent<SvgFilePenProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFilePenLineProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFilePenLine: React.ForwardRefExoticComponent<SvgFilePenLineProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFilePlusProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFilePlus: React.ForwardRefExoticComponent<SvgFilePlusProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFilePlus2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFilePlus2: React.ForwardRefExoticComponent<SvgFilePlus2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileQuestionProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileQuestion: React.ForwardRefExoticComponent<SvgFileQuestionProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileScanProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileScan: React.ForwardRefExoticComponent<SvgFileScanProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileSearchProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileSearch: React.ForwardRefExoticComponent<SvgFileSearchProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileSearch2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileSearch2: React.ForwardRefExoticComponent<SvgFileSearch2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileSlidersProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileSliders: React.ForwardRefExoticComponent<SvgFileSlidersProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileSpreadsheetProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileSpreadsheet: React.ForwardRefExoticComponent<SvgFileSpreadsheetProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileStackProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileStack: React.ForwardRefExoticComponent<SvgFileStackProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileSymlinkProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileSymlink: React.ForwardRefExoticComponent<SvgFileSymlinkProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileTerminalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileTerminal: React.ForwardRefExoticComponent<SvgFileTerminalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileTextProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileText: React.ForwardRefExoticComponent<SvgFileTextProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileTypeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileType: React.ForwardRefExoticComponent<SvgFileTypeProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileType2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileType2: React.ForwardRefExoticComponent<SvgFileType2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileUpProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileUp: React.ForwardRefExoticComponent<SvgFileUpProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileUserProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileUser: React.ForwardRefExoticComponent<SvgFileUserProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileVideoProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileVideo: React.ForwardRefExoticComponent<SvgFileVideoProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileVideo2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileVideo2: React.ForwardRefExoticComponent<SvgFileVideo2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileVolumeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileVolume: React.ForwardRefExoticComponent<SvgFileVolumeProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileVolume2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileVolume2: React.ForwardRefExoticComponent<SvgFileVolume2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileWarningProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileWarning: React.ForwardRefExoticComponent<SvgFileWarningProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileXProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileX: React.ForwardRefExoticComponent<SvgFileXProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFileX2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFileX2: React.ForwardRefExoticComponent<SvgFileX2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFilesProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFiles: React.ForwardRefExoticComponent<SvgFilesProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFilmProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFilm: React.ForwardRefExoticComponent<SvgFilmProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFingerprintProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFingerprint: React.ForwardRefExoticComponent<SvgFingerprintProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFireExtinguisherProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFireExtinguisher: React.ForwardRefExoticComponent<SvgFireExtinguisherProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFishProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFish: React.ForwardRefExoticComponent<SvgFishProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFishOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFishOff: React.ForwardRefExoticComponent<SvgFishOffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFishSymbolProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFishSymbol: React.ForwardRefExoticComponent<SvgFishSymbolProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlagProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlag: React.ForwardRefExoticComponent<SvgFlagProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlagOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlagOff: React.ForwardRefExoticComponent<SvgFlagOffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlagTriangleLeftProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlagTriangleLeft: React.ForwardRefExoticComponent<SvgFlagTriangleLeftProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlagTriangleRightProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlagTriangleRight: React.ForwardRefExoticComponent<SvgFlagTriangleRightProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlameProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlame: React.ForwardRefExoticComponent<SvgFlameProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlameKindlingProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlameKindling: React.ForwardRefExoticComponent<SvgFlameKindlingProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlashlightProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlashlight: React.ForwardRefExoticComponent<SvgFlashlightProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlashlightOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlashlightOff: React.ForwardRefExoticComponent<SvgFlashlightOffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlaskConicalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlaskConical: React.ForwardRefExoticComponent<SvgFlaskConicalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlaskConicalOffProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlaskConicalOff: React.ForwardRefExoticComponent<SvgFlaskConicalOffProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlaskRoundProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlaskRound: React.ForwardRefExoticComponent<SvgFlaskRoundProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlipHorizontalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlipHorizontal: React.ForwardRefExoticComponent<SvgFlipHorizontalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlipHorizontal2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlipHorizontal2: React.ForwardRefExoticComponent<SvgFlipHorizontal2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlipVerticalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlipVertical: React.ForwardRefExoticComponent<SvgFlipVerticalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlipVertical2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlipVertical2: React.ForwardRefExoticComponent<SvgFlipVertical2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlowerProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlower: React.ForwardRefExoticComponent<SvgFlowerProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFlower2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFlower2: React.ForwardRefExoticComponent<SvgFlower2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFocusProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFocus: React.ForwardRefExoticComponent<SvgFocusProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFoldHorizontalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFoldHorizontal: React.ForwardRefExoticComponent<SvgFoldHorizontalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFoldVerticalProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFoldVertical: React.ForwardRefExoticComponent<SvgFoldVerticalProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolder: React.ForwardRefExoticComponent<SvgFolderProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderArchiveProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderArchive: React.ForwardRefExoticComponent<SvgFolderArchiveProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderCheckProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderCheck: React.ForwardRefExoticComponent<SvgFolderCheckProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderClockProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderClock: React.ForwardRefExoticComponent<SvgFolderClockProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderClosedProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderClosed: React.ForwardRefExoticComponent<SvgFolderClosedProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderCodeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderCode: React.ForwardRefExoticComponent<SvgFolderCodeProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderCogProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderCog: React.ForwardRefExoticComponent<SvgFolderCogProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderDotProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderDot: React.ForwardRefExoticComponent<SvgFolderDotProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderDownProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderDown: React.ForwardRefExoticComponent<SvgFolderDownProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderGitProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderGit: React.ForwardRefExoticComponent<SvgFolderGitProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderGit2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderGit2: React.ForwardRefExoticComponent<SvgFolderGit2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderHeartProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderHeart: React.ForwardRefExoticComponent<SvgFolderHeartProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderInputProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderInput: React.ForwardRefExoticComponent<SvgFolderInputProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderKanbanProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderKanban: React.ForwardRefExoticComponent<SvgFolderKanbanProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderKeyProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderKey: React.ForwardRefExoticComponent<SvgFolderKeyProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderLockProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderLock: React.ForwardRefExoticComponent<SvgFolderLockProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderMinusProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderMinus: React.ForwardRefExoticComponent<SvgFolderMinusProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderOpenProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderOpen: React.ForwardRefExoticComponent<SvgFolderOpenProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderOpenDotProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderOpenDot: React.ForwardRefExoticComponent<SvgFolderOpenDotProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderOutputProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderOutput: React.ForwardRefExoticComponent<SvgFolderOutputProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderPenProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderPen: React.ForwardRefExoticComponent<SvgFolderPenProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderPlusProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderPlus: React.ForwardRefExoticComponent<SvgFolderPlusProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderRootProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderRoot: React.ForwardRefExoticComponent<SvgFolderRootProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderSearchProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderSearch: React.ForwardRefExoticComponent<SvgFolderSearchProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderSearch2Props extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderSearch2: React.ForwardRefExoticComponent<SvgFolderSearch2Props & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderSymlinkProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderSymlink: React.ForwardRefExoticComponent<SvgFolderSymlinkProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderSyncProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderSync: React.ForwardRefExoticComponent<SvgFolderSyncProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderTreeProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderTree: React.ForwardRefExoticComponent<SvgFolderTreeProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderUpProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderUp: React.ForwardRefExoticComponent<SvgFolderUpProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFolderXProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolderX: React.ForwardRefExoticComponent<SvgFolderXProps & React.RefAttributes<SVGSVGElement>>;
+
+interface SvgFoldersProps extends React.SVGAttributes<SVGElement> {
+}
+declare const SvgFolders: React.ForwardRefExoticComponent<SvgFoldersProps & React.RefAttributes<SVGSVGElement>>;
 
 interface SvgGithubProps extends React.SVGAttributes<SVGElement> {
 }
@@ -2148,4 +2720,4 @@ interface SvgYoutubeProps extends React.SVGAttributes<SVGElement> {
 }
 declare const SvgYoutube: React.ForwardRefExoticComponent<SvgYoutubeProps & React.RefAttributes<SVGSVGElement>>;
 
-export { SvgAArrowDown as AArrowDown, SvgAArrowUp as AArrowUp, SvgALargeSmall as ALargeSmall, SvgAccessibility as Accessibility, SvgActivity as Activity, SvgAirVent as AirVent, SvgAirplay as Airplay, SvgAlarmClock as AlarmClock, SvgAlarmClockCheck as AlarmClockCheck, SvgAlarmClockMinus as AlarmClockMinus, SvgAlarmClockOff as AlarmClockOff, SvgAlarmClockPlus as AlarmClockPlus, SvgAlarmSmoke as AlarmSmoke, SvgAlbum as Album, SvgAlignCenter as AlignCenter, SvgAlignCenterHorizontal as AlignCenterHorizontal, SvgAlignCenterVertical as AlignCenterVertical, SvgAlignEndHorizontal as AlignEndHorizontal, SvgAlignEndVertical as AlignEndVertical, SvgAlignHorizontalDistributeCenter as AlignHorizontalDistributeCenter, SvgAlignHorizontalDistributeEnd as AlignHorizontalDistributeEnd, SvgAlignHorizontalDistributeStart as AlignHorizontalDistributeStart, SvgAlignHorizontalJustifyCenter as AlignHorizontalJustifyCenter, SvgAlignHorizontalJustifyEnd as AlignHorizontalJustifyEnd, SvgAlignHorizontalJustifyStart as AlignHorizontalJustifyStart, SvgAlignHorizontalSpaceAround as AlignHorizontalSpaceAround, SvgAlignHorizontalSpaceBetween as AlignHorizontalSpaceBetween, SvgAlignJustify as AlignJustify, SvgAlignLeft as AlignLeft, SvgAlignRight as AlignRight, SvgAlignStartHorizontal as AlignStartHorizontal, SvgAlignStartVertical as AlignStartVertical, SvgAlignVerticalDistributeCenter as AlignVerticalDistributeCenter, SvgAlignVerticalDistributeEnd as AlignVerticalDistributeEnd, SvgAlignVerticalDistributeStart as AlignVerticalDistributeStart, SvgAlignVerticalJustifyCenter as AlignVerticalJustifyCenter, SvgAlignVerticalJustifyEnd as AlignVerticalJustifyEnd, SvgAlignVerticalJustifyStart as AlignVerticalJustifyStart, SvgAlignVerticalSpaceAround as AlignVerticalSpaceAround, SvgAlignVerticalSpaceBetween as AlignVerticalSpaceBetween, SvgAmbulance as Ambulance, SvgAmpersand as Ampersand, SvgAmpersands as Ampersands, SvgAmphora as Amphora, SvgAnchor as Anchor, SvgAngry as Angry, SvgAnnoyed as Annoyed, SvgAntenna as Antenna, SvgAnvil as Anvil, SvgAperture as Aperture, SvgAppWindow as AppWindow, SvgAppWindowMac as AppWindowMac, SvgApple as Apple, SvgArchive as Archive, SvgArchiveRestore as ArchiveRestore, SvgArchiveX as ArchiveX, SvgArmchair as Armchair, SvgArrowBigDown as ArrowBigDown, SvgArrowBigDownDash as ArrowBigDownDash, SvgArrowBigLeft as ArrowBigLeft, SvgArrowBigLeftDash as ArrowBigLeftDash, SvgArrowBigRight as ArrowBigRight, SvgArrowBigRightDash as ArrowBigRightDash, SvgArrowBigUp as ArrowBigUp, SvgArrowBigUpDash as ArrowBigUpDash, SvgArrowDown as ArrowDown, SvgArrowDown01 as ArrowDown01, SvgArrowDown10 as ArrowDown10, SvgArrowDownAZ as ArrowDownAZ, SvgArrowDownFromLine as ArrowDownFromLine, SvgArrowDownLeft as ArrowDownLeft, SvgArrowDownNarrowWide as ArrowDownNarrowWide, SvgArrowDownRight as ArrowDownRight, SvgArrowDownToDot as ArrowDownToDot, SvgArrowDownToLine as ArrowDownToLine, SvgArrowDownUp as ArrowDownUp, SvgArrowDownWideNarrow as ArrowDownWideNarrow, SvgArrowDownZA as ArrowDownZA, SvgArrowLeft as ArrowLeft, SvgArrowLeftFromLine as ArrowLeftFromLine, SvgArrowLeftRight as ArrowLeftRight, SvgArrowLeftToLine as ArrowLeftToLine, SvgArrowRight as ArrowRight, SvgArrowRightFromLine as ArrowRightFromLine, SvgArrowRightLeft as ArrowRightLeft, SvgArrowRightToLine as ArrowRightToLine, SvgArrowUp as ArrowUp, SvgArrowUp01 as ArrowUp01, SvgArrowUp10 as ArrowUp10, SvgArrowUpAZ as ArrowUpAZ, SvgArrowUpDown as ArrowUpDown, SvgArrowUpFromDot as ArrowUpFromDot, SvgArrowUpFromLine as ArrowUpFromLine, SvgArrowUpLeft as ArrowUpLeft, SvgArrowUpNarrowWide as ArrowUpNarrowWide, SvgArrowUpRight as ArrowUpRight, SvgArrowUpToLine as ArrowUpToLine, SvgArrowUpWideNarrow as ArrowUpWideNarrow, SvgArrowUpZA as ArrowUpZA, SvgArrowsUpFromLine as ArrowsUpFromLine, SvgAsterisk as Asterisk, SvgAtSign as AtSign, SvgAtom as Atom, SvgAudioLines as AudioLines, SvgAudioWaveform as AudioWaveform, SvgAward as Award, SvgAxe as Axe, SvgAxis3D as Axis3D, SvgBaby as Baby, SvgBackpack as Backpack, SvgBadge as Badge, SvgBadgeAlert as BadgeAlert, SvgBadgeCent as BadgeCent, SvgBadgeCheck as BadgeCheck, SvgBadgeDollarSign as BadgeDollarSign, SvgBadgeEuro as BadgeEuro, SvgBadgeHelp as BadgeHelp, SvgBadgeIndianRupee as BadgeIndianRupee, SvgBadgeInfo as BadgeInfo, SvgBadgeJapaneseYen as BadgeJapaneseYen, SvgBadgeMinus as BadgeMinus, SvgBadgePercent as BadgePercent, SvgBadgePlus as BadgePlus, SvgBadgePoundSterling as BadgePoundSterling, SvgBadgeRussianRuble as BadgeRussianRuble, SvgBadgeSwissFranc as BadgeSwissFranc, SvgBadgeX as BadgeX, SvgBaggageClaim as BaggageClaim, SvgBan as Ban, SvgBanana as Banana, SvgBandage as Bandage, SvgBanknote as Banknote, SvgBanknoteArrowDown as BanknoteArrowDown, SvgBanknoteArrowUp as BanknoteArrowUp, SvgBanknoteX as BanknoteX, SvgBarcode as Barcode, SvgBaseline as Baseline, SvgBath as Bath, SvgBattery as Battery, SvgBatteryCharging as BatteryCharging, SvgBatteryFull as BatteryFull, SvgBatteryLow as BatteryLow, SvgBatteryMedium as BatteryMedium, SvgBatteryPlus as BatteryPlus, SvgBatteryWarning as BatteryWarning, SvgBeaker as Beaker, SvgBean as Bean, SvgBeanOff as BeanOff, SvgBed as Bed, SvgBedDouble as BedDouble, SvgBedSingle as BedSingle, SvgBeef as Beef, SvgBeer as Beer, SvgBeerOff as BeerOff, SvgBell as Bell, SvgBellDot as BellDot, SvgBellElectric as BellElectric, SvgBellMinus as BellMinus, SvgBellOff as BellOff, SvgBellPlus as BellPlus, SvgBellRing as BellRing, SvgBetweenHorizontalEnd as BetweenHorizontalEnd, SvgBetweenHorizontalStart as BetweenHorizontalStart, SvgBetweenVerticalEnd as BetweenVerticalEnd, SvgBetweenVerticalStart as BetweenVerticalStart, SvgBicepsFlexed as BicepsFlexed, SvgBike as Bike, SvgBinary as Binary, SvgBinoculars as Binoculars, SvgBiohazard as Biohazard, SvgBird as Bird, SvgBitcoin as Bitcoin, SvgBlend as Blend, SvgBlinds as Blinds, SvgBlocks as Blocks, SvgBluetooth as Bluetooth, SvgBluetoothConnected as BluetoothConnected, SvgBluetoothOff as BluetoothOff, SvgBluetoothSearching as BluetoothSearching, SvgBold as Bold, SvgBolt as Bolt, SvgBomb as Bomb, SvgBone as Bone, SvgBook as Book, SvgBookA as BookA, SvgBookAudio as BookAudio, SvgBookCheck as BookCheck, SvgBookCopy as BookCopy, SvgBookDashed as BookDashed, SvgBookDown as BookDown, SvgBookHeadphones as BookHeadphones, SvgBookHeart as BookHeart, SvgBookImage as BookImage, SvgBookKey as BookKey, SvgBookLock as BookLock, SvgBookMarked as BookMarked, SvgBookMinus as BookMinus, SvgBookOpen as BookOpen, SvgBookOpenCheck as BookOpenCheck, SvgBookOpenText as BookOpenText, SvgBookPlus as BookPlus, SvgBookText as BookText, SvgBookType as BookType, SvgBookUp as BookUp, SvgBookUp2 as BookUp2, SvgBookUser as BookUser, SvgBookX as BookX, SvgBookmark as Bookmark, SvgBookmarkCheck as BookmarkCheck, SvgBookmarkMinus as BookmarkMinus, SvgBookmarkPlus as BookmarkPlus, SvgBookmarkX as BookmarkX, SvgBoomBox as BoomBox, SvgBot as Bot, SvgBotMessageSquare as BotMessageSquare, SvgBotOff as BotOff, SvgBox as Box, SvgBoxes as Boxes, SvgBraces as Braces, SvgBrackets as Brackets, SvgBrain as Brain, SvgBrainCircuit as BrainCircuit, SvgBrainCog as BrainCog, SvgBrickWall as BrickWall, SvgBriefcase as Briefcase, SvgBriefcaseBusiness as BriefcaseBusiness, SvgBriefcaseConveyorBelt as BriefcaseConveyorBelt, SvgBriefcaseMedical as BriefcaseMedical, SvgBringToFront as BringToFront, SvgBrush as Brush, SvgBug as Bug, SvgBugOff as BugOff, SvgBugPlay as BugPlay, SvgBuilding as Building, SvgBuilding2 as Building2, SvgBus as Bus, SvgBusFront as BusFront, SvgCable as Cable, SvgCableCar as CableCar, SvgCake as Cake, SvgCakeSlice as CakeSlice, SvgCalculator as Calculator, SvgCalendar as Calendar, SvgCalendar1 as Calendar1, SvgCalendarArrowDown as CalendarArrowDown, SvgCalendarArrowUp as CalendarArrowUp, SvgCalendarCheck as CalendarCheck, SvgCalendarCheck2 as CalendarCheck2, SvgCalendarClock as CalendarClock, SvgCalendarCog as CalendarCog, SvgCalendarDays as CalendarDays, SvgCalendarFold as CalendarFold, SvgCalendarHeart as CalendarHeart, SvgCalendarMinus as CalendarMinus, SvgCalendarMinus2 as CalendarMinus2, SvgCalendarOff as CalendarOff, SvgCalendarPlus as CalendarPlus, SvgCalendarPlus2 as CalendarPlus2, SvgCalendarRange as CalendarRange, SvgCalendarSearch as CalendarSearch, SvgCalendarSync as CalendarSync, SvgCalendarX as CalendarX, SvgCalendarX2 as CalendarX2, SvgCamera as Camera, SvgCameraOff as CameraOff, SvgCandy as Candy, SvgCandyCane as CandyCane, SvgCandyOff as CandyOff, SvgCaptions as Captions, SvgCaptionsOff as CaptionsOff, SvgCar as Car, SvgCarFront as CarFront, SvgCarTaxiFront as CarTaxiFront, SvgCaravan as Caravan, SvgCarrot as Carrot, SvgCaseLower as CaseLower, SvgCaseSensitive as CaseSensitive, SvgCaseUpper as CaseUpper, SvgCasetteTape as CasetteTape, SvgCast as Cast, SvgCastle as Castle, SvgCat as Cat, SvgCctv as Cctv, SvgChartArea as ChartArea, SvgChartBar as ChartBar, SvgChartBarBig as ChartBarBig, SvgChartBarDecreasing as ChartBarDecreasing, SvgChartBarIncreasing as ChartBarIncreasing, SvgChartBarStacked as ChartBarStacked, SvgChartCandlestick as ChartCandlestick, SvgChartColumn as ChartColumn, SvgChartColumnBig as ChartColumnBig, SvgChartColumnDecreasing as ChartColumnDecreasing, SvgChartColumnIncreasing as ChartColumnIncreasing, SvgChartColumnStacked as ChartColumnStacked, SvgChartGantt as ChartGantt, SvgChartLine as ChartLine, SvgChartNetwork as ChartNetwork, SvgChartNoAxesColumn as ChartNoAxesColumn, SvgChartNoAxesColumnDecreasing as ChartNoAxesColumnDecreasing, SvgChartNoAxesColumnIncreasing as ChartNoAxesColumnIncreasing, SvgChartNoAxesCombined as ChartNoAxesCombined, SvgChartNoAxesGantt as ChartNoAxesGantt, SvgChartPie as ChartPie, SvgChartScatter as ChartScatter, SvgChartSpline as ChartSpline, SvgCheck as Check, SvgCheckCheck as CheckCheck, SvgChefHat as ChefHat, SvgCherry as Cherry, SvgChevronDown as ChevronDown, SvgChevronDownUp as ChevronDownUp, SvgChevronFirst as ChevronFirst, SvgChevronLast as ChevronLast, SvgChevronLeft as ChevronLeft, SvgChevronRight as ChevronRight, SvgChevronUp as ChevronUp, SvgChevronsDown as ChevronsDown, SvgChevronsLeft as ChevronsLeft, SvgChevronsLeftRight as ChevronsLeftRight, SvgChevronsLeftRightEllipsis as ChevronsLeftRightEllipsis, SvgChevronsRight as ChevronsRight, SvgChevronsRightLeft as ChevronsRightLeft, SvgChevronsUp as ChevronsUp, SvgChevronsUpDown as ChevronsUpDown, SvgChrome as Chrome, SvgChurch as Church, SvgCigarette as Cigarette, SvgCigaretteOff as CigaretteOff, SvgCircle as Circle, SvgCircleAlert as CircleAlert, SvgCircleArrowDown as CircleArrowDown, SvgCircleArrowLeft as CircleArrowLeft, SvgCircleArrowOutDownLeft as CircleArrowOutDownLeft, SvgCircleArrowOutDownRight as CircleArrowOutDownRight, SvgCircleArrowOutUpLeft as CircleArrowOutUpLeft, SvgCircleArrowOutUpRight as CircleArrowOutUpRight, SvgCircleArrowRight as CircleArrowRight, SvgCircleArrowUp as CircleArrowUp, SvgCircleCheck as CircleCheck, SvgCircleCheckBig as CircleCheckBig, SvgCircleChevronDown as CircleChevronDown, SvgCircleChevronLeft as CircleChevronLeft, SvgCircleChevronRight as CircleChevronRight, SvgCircleChevronUp as CircleChevronUp, SvgCircleDashed as CircleDashed, SvgCircleDivide as CircleDivide, SvgCircleDollarSign as CircleDollarSign, SvgCircleDot as CircleDot, SvgCircleDotDashed as CircleDotDashed, SvgCircleEllipsis as CircleEllipsis, SvgCircleEqual as CircleEqual, SvgCircleFadingArrowUp as CircleFadingArrowUp, SvgCircleFadingPlus as CircleFadingPlus, SvgCircleGauge as CircleGauge, SvgCircleHelp as CircleHelp, SvgCircleMinus as CircleMinus, SvgCircleOff as CircleOff, SvgCircleParking as CircleParking, SvgCircleParkingOff as CircleParkingOff, SvgCirclePause as CirclePause, SvgCirclePercent as CirclePercent, SvgCirclePlay as CirclePlay, SvgCirclePlus as CirclePlus, SvgCirclePower as CirclePower, SvgCircleSlash as CircleSlash, SvgCircleSlash2 as CircleSlash2, SvgCircleSmall as CircleSmall, SvgCircleStop as CircleStop, SvgCircleUser as CircleUser, SvgCircleUserRound as CircleUserRound, SvgCircleX as CircleX, SvgCircuitBoard as CircuitBoard, SvgCitrus as Citrus, SvgClapperboard as Clapperboard, SvgClipboard as Clipboard, SvgClipboardCheck as ClipboardCheck, SvgClipboardCopy as ClipboardCopy, SvgClipboardList as ClipboardList, SvgClipboardMinus as ClipboardMinus, SvgClipboardPaste as ClipboardPaste, SvgClipboardPen as ClipboardPen, SvgClipboardPenLine as ClipboardPenLine, SvgClipboardPlus as ClipboardPlus, SvgClipboardType as ClipboardType, SvgClipboardX as ClipboardX, SvgClock as Clock, SvgClock1 as Clock1, SvgClock10 as Clock10, SvgClock11 as Clock11, SvgClock12 as Clock12, SvgClock2 as Clock2, SvgClock3 as Clock3, SvgClock4 as Clock4, SvgClock5 as Clock5, SvgClock6 as Clock6, SvgClock7 as Clock7, SvgClock8 as Clock8, SvgClock9 as Clock9, SvgClockAlert as ClockAlert, SvgClockArrowDown as ClockArrowDown, SvgClockArrowUp as ClockArrowUp, SvgClockFading as ClockFading, SvgCloud as Cloud, SvgCloudAlert as CloudAlert, SvgCloudCog as CloudCog, SvgCloudDownload as CloudDownload, SvgCloudDrizzle as CloudDrizzle, SvgCloudFog as CloudFog, SvgCloudHail as CloudHail, SvgCloudLightning as CloudLightning, SvgCloudMoon as CloudMoon, SvgCloudMoonRain as CloudMoonRain, SvgCloudOff as CloudOff, SvgCloudRain as CloudRain, SvgCloudRainWind as CloudRainWind, SvgCloudSnow as CloudSnow, SvgCloudSun as CloudSun, SvgCloudSunRain as CloudSunRain, SvgCloudUpload as CloudUpload, SvgCloudy as Cloudy, SvgClover as Clover, SvgClub as Club, SvgCode as Code, SvgCodeXml as CodeXml, SvgCodepen as Codepen, SvgCodesandbox as Codesandbox, SvgCoffee as Coffee, SvgCog as Cog, SvgCoins as Coins, SvgColumns2 as Columns2, SvgColumns3 as Columns3, SvgColumns4 as Columns4, SvgCombine as Combine, SvgCommand as Command, SvgCompass as Compass, SvgComponent as Component, SvgComputer as Computer, SvgConciergeBell as ConciergeBell, SvgCone as Cone, SvgConstruction as Construction, SvgContact as Contact, SvgContactRound as ContactRound, SvgContainer as Container, SvgContrast as Contrast, SvgCookie as Cookie, SvgCookingPot as CookingPot, SvgCopy as Copy, SvgCopyCheck as CopyCheck, SvgCopyMinus as CopyMinus, SvgCopyPlus as CopyPlus, SvgCopyX as CopyX, SvgCopyleft as Copyleft, SvgCopyright as Copyright, SvgCornerDownLeft as CornerDownLeft, SvgCornerDownRight as CornerDownRight, SvgCornerLeftDown as CornerLeftDown, SvgCornerLeftUp as CornerLeftUp, SvgCornerRightDown as CornerRightDown, SvgCornerRightUp as CornerRightUp, SvgCornerUpLeft as CornerUpLeft, SvgCornerUpRight as CornerUpRight, SvgCpu as Cpu, SvgCreativeCommons as CreativeCommons, SvgCreditCard as CreditCard, SvgCroissant as Croissant, SvgCrop as Crop, SvgCross as Cross, SvgCrosshair as Crosshair, SvgCrown as Crown, SvgCuboid as Cuboid, SvgCupSoda as CupSoda, SvgCurrency as Currency, SvgCylinder as Cylinder, SvgDam as Dam, SvgDatabase as Database, SvgDatabaseBackup as DatabaseBackup, SvgDatabaseZap as DatabaseZap, SvgDelete as Delete, SvgDessert as Dessert, SvgDiameter as Diameter, SvgDiamond as Diamond, SvgDiamondMinus as DiamondMinus, SvgDiamondPercent as DiamondPercent, SvgDiamondPlus as DiamondPlus, SvgDice1 as Dice1, SvgDice2 as Dice2, SvgDice3 as Dice3, SvgDice4 as Dice4, SvgDice5 as Dice5, SvgDice6 as Dice6, SvgDices as Dices, SvgDiff as Diff, SvgDisc as Disc, SvgDisc2 as Disc2, SvgDisc3 as Disc3, SvgDiscAlbum as DiscAlbum, SvgDivide as Divide, SvgDna as Dna, SvgDnaOff as DnaOff, SvgDock as Dock, SvgDog as Dog, SvgDollarSign as DollarSign, SvgDonut as Donut, SvgDoorClosed as DoorClosed, SvgDoorOpen as DoorOpen, SvgDot as Dot, SvgDownload as Download, SvgDraftingCompass as DraftingCompass, SvgDrama as Drama, SvgDribbble as Dribbble, SvgDrill as Drill, SvgDroplet as Droplet, SvgDropletOff as DropletOff, SvgDroplets as Droplets, SvgDrum as Drum, SvgDrumstick as Drumstick, SvgDumbbell as Dumbbell, SvgEllipsis as Ellipsis, SvgExpand as Expand, SvgFileCode2 as FileCode2, SvgGithub as Github, SvgInstagram as Instagram, SvgLink as Link, SvgMoon as Moon, SvgPackageCheck as PackageCheck, SvgPalette as Palette, SvgPickaxe as Pickaxe, SvgScanFace as ScanFace, SvgSearch as Search, SvgSquareMenu as SquareMenu, SvgSun as Sun, SvgSunDim as SunDim, SvgTreeDeciduous as TreeDeciduous, SvgTwitter as Twitter, SvgUsers as Users, SvgYoutube as Youtube };
+export { SvgAArrowDown as AArrowDown, SvgAArrowUp as AArrowUp, SvgALargeSmall as ALargeSmall, SvgAccessibility as Accessibility, SvgActivity as Activity, SvgAirVent as AirVent, SvgAirplay as Airplay, SvgAlarmClock as AlarmClock, SvgAlarmClockCheck as AlarmClockCheck, SvgAlarmClockMinus as AlarmClockMinus, SvgAlarmClockOff as AlarmClockOff, SvgAlarmClockPlus as AlarmClockPlus, SvgAlarmSmoke as AlarmSmoke, SvgAlbum as Album, SvgAlignCenter as AlignCenter, SvgAlignCenterHorizontal as AlignCenterHorizontal, SvgAlignCenterVertical as AlignCenterVertical, SvgAlignEndHorizontal as AlignEndHorizontal, SvgAlignEndVertical as AlignEndVertical, SvgAlignHorizontalDistributeCenter as AlignHorizontalDistributeCenter, SvgAlignHorizontalDistributeEnd as AlignHorizontalDistributeEnd, SvgAlignHorizontalDistributeStart as AlignHorizontalDistributeStart, SvgAlignHorizontalJustifyCenter as AlignHorizontalJustifyCenter, SvgAlignHorizontalJustifyEnd as AlignHorizontalJustifyEnd, SvgAlignHorizontalJustifyStart as AlignHorizontalJustifyStart, SvgAlignHorizontalSpaceAround as AlignHorizontalSpaceAround, SvgAlignHorizontalSpaceBetween as AlignHorizontalSpaceBetween, SvgAlignJustify as AlignJustify, SvgAlignLeft as AlignLeft, SvgAlignRight as AlignRight, SvgAlignStartHorizontal as AlignStartHorizontal, SvgAlignStartVertical as AlignStartVertical, SvgAlignVerticalDistributeCenter as AlignVerticalDistributeCenter, SvgAlignVerticalDistributeEnd as AlignVerticalDistributeEnd, SvgAlignVerticalDistributeStart as AlignVerticalDistributeStart, SvgAlignVerticalJustifyCenter as AlignVerticalJustifyCenter, SvgAlignVerticalJustifyEnd as AlignVerticalJustifyEnd, SvgAlignVerticalJustifyStart as AlignVerticalJustifyStart, SvgAlignVerticalSpaceAround as AlignVerticalSpaceAround, SvgAlignVerticalSpaceBetween as AlignVerticalSpaceBetween, SvgAmbulance as Ambulance, SvgAmpersand as Ampersand, SvgAmpersands as Ampersands, SvgAmphora as Amphora, SvgAnchor as Anchor, SvgAngry as Angry, SvgAnnoyed as Annoyed, SvgAntenna as Antenna, SvgAnvil as Anvil, SvgAperture as Aperture, SvgAppWindow as AppWindow, SvgAppWindowMac as AppWindowMac, SvgApple as Apple, SvgArchive as Archive, SvgArchiveRestore as ArchiveRestore, SvgArchiveX as ArchiveX, SvgArmchair as Armchair, SvgArrowBigDown as ArrowBigDown, SvgArrowBigDownDash as ArrowBigDownDash, SvgArrowBigLeft as ArrowBigLeft, SvgArrowBigLeftDash as ArrowBigLeftDash, SvgArrowBigRight as ArrowBigRight, SvgArrowBigRightDash as ArrowBigRightDash, SvgArrowBigUp as ArrowBigUp, SvgArrowBigUpDash as ArrowBigUpDash, SvgArrowDown as ArrowDown, SvgArrowDown01 as ArrowDown01, SvgArrowDown10 as ArrowDown10, SvgArrowDownAZ as ArrowDownAZ, SvgArrowDownFromLine as ArrowDownFromLine, SvgArrowDownLeft as ArrowDownLeft, SvgArrowDownNarrowWide as ArrowDownNarrowWide, SvgArrowDownRight as ArrowDownRight, SvgArrowDownToDot as ArrowDownToDot, SvgArrowDownToLine as ArrowDownToLine, SvgArrowDownUp as ArrowDownUp, SvgArrowDownWideNarrow as ArrowDownWideNarrow, SvgArrowDownZA as ArrowDownZA, SvgArrowLeft as ArrowLeft, SvgArrowLeftFromLine as ArrowLeftFromLine, SvgArrowLeftRight as ArrowLeftRight, SvgArrowLeftToLine as ArrowLeftToLine, SvgArrowRight as ArrowRight, SvgArrowRightFromLine as ArrowRightFromLine, SvgArrowRightLeft as ArrowRightLeft, SvgArrowRightToLine as ArrowRightToLine, SvgArrowUp as ArrowUp, SvgArrowUp01 as ArrowUp01, SvgArrowUp10 as ArrowUp10, SvgArrowUpAZ as ArrowUpAZ, SvgArrowUpDown as ArrowUpDown, SvgArrowUpFromDot as ArrowUpFromDot, SvgArrowUpFromLine as ArrowUpFromLine, SvgArrowUpLeft as ArrowUpLeft, SvgArrowUpNarrowWide as ArrowUpNarrowWide, SvgArrowUpRight as ArrowUpRight, SvgArrowUpToLine as ArrowUpToLine, SvgArrowUpWideNarrow as ArrowUpWideNarrow, SvgArrowUpZA as ArrowUpZA, SvgArrowsUpFromLine as ArrowsUpFromLine, SvgAsterisk as Asterisk, SvgAtSign as AtSign, SvgAtom as Atom, SvgAudioLines as AudioLines, SvgAudioWaveform as AudioWaveform, SvgAward as Award, SvgAxe as Axe, SvgAxis3D as Axis3D, SvgBaby as Baby, SvgBackpack as Backpack, SvgBadge as Badge, SvgBadgeAlert as BadgeAlert, SvgBadgeCent as BadgeCent, SvgBadgeCheck as BadgeCheck, SvgBadgeDollarSign as BadgeDollarSign, SvgBadgeEuro as BadgeEuro, SvgBadgeHelp as BadgeHelp, SvgBadgeIndianRupee as BadgeIndianRupee, SvgBadgeInfo as BadgeInfo, SvgBadgeJapaneseYen as BadgeJapaneseYen, SvgBadgeMinus as BadgeMinus, SvgBadgePercent as BadgePercent, SvgBadgePlus as BadgePlus, SvgBadgePoundSterling as BadgePoundSterling, SvgBadgeRussianRuble as BadgeRussianRuble, SvgBadgeSwissFranc as BadgeSwissFranc, SvgBadgeX as BadgeX, SvgBaggageClaim as BaggageClaim, SvgBan as Ban, SvgBanana as Banana, SvgBandage as Bandage, SvgBanknote as Banknote, SvgBanknoteArrowDown as BanknoteArrowDown, SvgBanknoteArrowUp as BanknoteArrowUp, SvgBanknoteX as BanknoteX, SvgBarcode as Barcode, SvgBaseline as Baseline, SvgBath as Bath, SvgBattery as Battery, SvgBatteryCharging as BatteryCharging, SvgBatteryFull as BatteryFull, SvgBatteryLow as BatteryLow, SvgBatteryMedium as BatteryMedium, SvgBatteryPlus as BatteryPlus, SvgBatteryWarning as BatteryWarning, SvgBeaker as Beaker, SvgBean as Bean, SvgBeanOff as BeanOff, SvgBed as Bed, SvgBedDouble as BedDouble, SvgBedSingle as BedSingle, SvgBeef as Beef, SvgBeer as Beer, SvgBeerOff as BeerOff, SvgBell as Bell, SvgBellDot as BellDot, SvgBellElectric as BellElectric, SvgBellMinus as BellMinus, SvgBellOff as BellOff, SvgBellPlus as BellPlus, SvgBellRing as BellRing, SvgBetweenHorizontalEnd as BetweenHorizontalEnd, SvgBetweenHorizontalStart as BetweenHorizontalStart, SvgBetweenVerticalEnd as BetweenVerticalEnd, SvgBetweenVerticalStart as BetweenVerticalStart, SvgBicepsFlexed as BicepsFlexed, SvgBike as Bike, SvgBinary as Binary, SvgBinoculars as Binoculars, SvgBiohazard as Biohazard, SvgBird as Bird, SvgBitcoin as Bitcoin, SvgBlend as Blend, SvgBlinds as Blinds, SvgBlocks as Blocks, SvgBluetooth as Bluetooth, SvgBluetoothConnected as BluetoothConnected, SvgBluetoothOff as BluetoothOff, SvgBluetoothSearching as BluetoothSearching, SvgBold as Bold, SvgBolt as Bolt, SvgBomb as Bomb, SvgBone as Bone, SvgBook as Book, SvgBookA as BookA, SvgBookAudio as BookAudio, SvgBookCheck as BookCheck, SvgBookCopy as BookCopy, SvgBookDashed as BookDashed, SvgBookDown as BookDown, SvgBookHeadphones as BookHeadphones, SvgBookHeart as BookHeart, SvgBookImage as BookImage, SvgBookKey as BookKey, SvgBookLock as BookLock, SvgBookMarked as BookMarked, SvgBookMinus as BookMinus, SvgBookOpen as BookOpen, SvgBookOpenCheck as BookOpenCheck, SvgBookOpenText as BookOpenText, SvgBookPlus as BookPlus, SvgBookText as BookText, SvgBookType as BookType, SvgBookUp as BookUp, SvgBookUp2 as BookUp2, SvgBookUser as BookUser, SvgBookX as BookX, SvgBookmark as Bookmark, SvgBookmarkCheck as BookmarkCheck, SvgBookmarkMinus as BookmarkMinus, SvgBookmarkPlus as BookmarkPlus, SvgBookmarkX as BookmarkX, SvgBoomBox as BoomBox, SvgBot as Bot, SvgBotMessageSquare as BotMessageSquare, SvgBotOff as BotOff, SvgBox as Box, SvgBoxes as Boxes, SvgBraces as Braces, SvgBrackets as Brackets, SvgBrain as Brain, SvgBrainCircuit as BrainCircuit, SvgBrainCog as BrainCog, SvgBrickWall as BrickWall, SvgBriefcase as Briefcase, SvgBriefcaseBusiness as BriefcaseBusiness, SvgBriefcaseConveyorBelt as BriefcaseConveyorBelt, SvgBriefcaseMedical as BriefcaseMedical, SvgBringToFront as BringToFront, SvgBrush as Brush, SvgBug as Bug, SvgBugOff as BugOff, SvgBugPlay as BugPlay, SvgBuilding as Building, SvgBuilding2 as Building2, SvgBus as Bus, SvgBusFront as BusFront, SvgCable as Cable, SvgCableCar as CableCar, SvgCake as Cake, SvgCakeSlice as CakeSlice, SvgCalculator as Calculator, SvgCalendar as Calendar, SvgCalendar1 as Calendar1, SvgCalendarArrowDown as CalendarArrowDown, SvgCalendarArrowUp as CalendarArrowUp, SvgCalendarCheck as CalendarCheck, SvgCalendarCheck2 as CalendarCheck2, SvgCalendarClock as CalendarClock, SvgCalendarCog as CalendarCog, SvgCalendarDays as CalendarDays, SvgCalendarFold as CalendarFold, SvgCalendarHeart as CalendarHeart, SvgCalendarMinus as CalendarMinus, SvgCalendarMinus2 as CalendarMinus2, SvgCalendarOff as CalendarOff, SvgCalendarPlus as CalendarPlus, SvgCalendarPlus2 as CalendarPlus2, SvgCalendarRange as CalendarRange, SvgCalendarSearch as CalendarSearch, SvgCalendarSync as CalendarSync, SvgCalendarX as CalendarX, SvgCalendarX2 as CalendarX2, SvgCamera as Camera, SvgCameraOff as CameraOff, SvgCandy as Candy, SvgCandyCane as CandyCane, SvgCandyOff as CandyOff, SvgCaptions as Captions, SvgCaptionsOff as CaptionsOff, SvgCar as Car, SvgCarFront as CarFront, SvgCarTaxiFront as CarTaxiFront, SvgCaravan as Caravan, SvgCarrot as Carrot, SvgCaseLower as CaseLower, SvgCaseSensitive as CaseSensitive, SvgCaseUpper as CaseUpper, SvgCasetteTape as CasetteTape, SvgCast as Cast, SvgCastle as Castle, SvgCat as Cat, SvgCctv as Cctv, SvgChartArea as ChartArea, SvgChartBar as ChartBar, SvgChartBarBig as ChartBarBig, SvgChartBarDecreasing as ChartBarDecreasing, SvgChartBarIncreasing as ChartBarIncreasing, SvgChartBarStacked as ChartBarStacked, SvgChartCandlestick as ChartCandlestick, SvgChartColumn as ChartColumn, SvgChartColumnBig as ChartColumnBig, SvgChartColumnDecreasing as ChartColumnDecreasing, SvgChartColumnIncreasing as ChartColumnIncreasing, SvgChartColumnStacked as ChartColumnStacked, SvgChartGantt as ChartGantt, SvgChartLine as ChartLine, SvgChartNetwork as ChartNetwork, SvgChartNoAxesColumn as ChartNoAxesColumn, SvgChartNoAxesColumnDecreasing as ChartNoAxesColumnDecreasing, SvgChartNoAxesColumnIncreasing as ChartNoAxesColumnIncreasing, SvgChartNoAxesCombined as ChartNoAxesCombined, SvgChartNoAxesGantt as ChartNoAxesGantt, SvgChartPie as ChartPie, SvgChartScatter as ChartScatter, SvgChartSpline as ChartSpline, SvgCheck as Check, SvgCheckCheck as CheckCheck, SvgChefHat as ChefHat, SvgCherry as Cherry, SvgChevronDown as ChevronDown, SvgChevronDownUp as ChevronDownUp, SvgChevronFirst as ChevronFirst, SvgChevronLast as ChevronLast, SvgChevronLeft as ChevronLeft, SvgChevronRight as ChevronRight, SvgChevronUp as ChevronUp, SvgChevronsDown as ChevronsDown, SvgChevronsLeft as ChevronsLeft, SvgChevronsLeftRight as ChevronsLeftRight, SvgChevronsLeftRightEllipsis as ChevronsLeftRightEllipsis, SvgChevronsRight as ChevronsRight, SvgChevronsRightLeft as ChevronsRightLeft, SvgChevronsUp as ChevronsUp, SvgChevronsUpDown as ChevronsUpDown, SvgChrome as Chrome, SvgChurch as Church, SvgCigarette as Cigarette, SvgCigaretteOff as CigaretteOff, SvgCircle as Circle, SvgCircleAlert as CircleAlert, SvgCircleArrowDown as CircleArrowDown, SvgCircleArrowLeft as CircleArrowLeft, SvgCircleArrowOutDownLeft as CircleArrowOutDownLeft, SvgCircleArrowOutDownRight as CircleArrowOutDownRight, SvgCircleArrowOutUpLeft as CircleArrowOutUpLeft, SvgCircleArrowOutUpRight as CircleArrowOutUpRight, SvgCircleArrowRight as CircleArrowRight, SvgCircleArrowUp as CircleArrowUp, SvgCircleCheck as CircleCheck, SvgCircleCheckBig as CircleCheckBig, SvgCircleChevronDown as CircleChevronDown, SvgCircleChevronLeft as CircleChevronLeft, SvgCircleChevronRight as CircleChevronRight, SvgCircleChevronUp as CircleChevronUp, SvgCircleDashed as CircleDashed, SvgCircleDivide as CircleDivide, SvgCircleDollarSign as CircleDollarSign, SvgCircleDot as CircleDot, SvgCircleDotDashed as CircleDotDashed, SvgCircleEllipsis as CircleEllipsis, SvgCircleEqual as CircleEqual, SvgCircleFadingArrowUp as CircleFadingArrowUp, SvgCircleFadingPlus as CircleFadingPlus, SvgCircleGauge as CircleGauge, SvgCircleHelp as CircleHelp, SvgCircleMinus as CircleMinus, SvgCircleOff as CircleOff, SvgCircleParking as CircleParking, SvgCircleParkingOff as CircleParkingOff, SvgCirclePause as CirclePause, SvgCirclePercent as CirclePercent, SvgCirclePlay as CirclePlay, SvgCirclePlus as CirclePlus, SvgCirclePower as CirclePower, SvgCircleSlash as CircleSlash, SvgCircleSlash2 as CircleSlash2, SvgCircleSmall as CircleSmall, SvgCircleStop as CircleStop, SvgCircleUser as CircleUser, SvgCircleUserRound as CircleUserRound, SvgCircleX as CircleX, SvgCircuitBoard as CircuitBoard, SvgCitrus as Citrus, SvgClapperboard as Clapperboard, SvgClipboard as Clipboard, SvgClipboardCheck as ClipboardCheck, SvgClipboardCopy as ClipboardCopy, SvgClipboardList as ClipboardList, SvgClipboardMinus as ClipboardMinus, SvgClipboardPaste as ClipboardPaste, SvgClipboardPen as ClipboardPen, SvgClipboardPenLine as ClipboardPenLine, SvgClipboardPlus as ClipboardPlus, SvgClipboardType as ClipboardType, SvgClipboardX as ClipboardX, SvgClock as Clock, SvgClock1 as Clock1, SvgClock10 as Clock10, SvgClock11 as Clock11, SvgClock12 as Clock12, SvgClock2 as Clock2, SvgClock3 as Clock3, SvgClock4 as Clock4, SvgClock5 as Clock5, SvgClock6 as Clock6, SvgClock7 as Clock7, SvgClock8 as Clock8, SvgClock9 as Clock9, SvgClockAlert as ClockAlert, SvgClockArrowDown as ClockArrowDown, SvgClockArrowUp as ClockArrowUp, SvgClockFading as ClockFading, SvgCloud as Cloud, SvgCloudAlert as CloudAlert, SvgCloudCog as CloudCog, SvgCloudDownload as CloudDownload, SvgCloudDrizzle as CloudDrizzle, SvgCloudFog as CloudFog, SvgCloudHail as CloudHail, SvgCloudLightning as CloudLightning, SvgCloudMoon as CloudMoon, SvgCloudMoonRain as CloudMoonRain, SvgCloudOff as CloudOff, SvgCloudRain as CloudRain, SvgCloudRainWind as CloudRainWind, SvgCloudSnow as CloudSnow, SvgCloudSun as CloudSun, SvgCloudSunRain as CloudSunRain, SvgCloudUpload as CloudUpload, SvgCloudy as Cloudy, SvgClover as Clover, SvgClub as Club, SvgCode as Code, SvgCodeXml as CodeXml, SvgCodepen as Codepen, SvgCodesandbox as Codesandbox, SvgCoffee as Coffee, SvgCog as Cog, SvgCoins as Coins, SvgColumns2 as Columns2, SvgColumns3 as Columns3, SvgColumns4 as Columns4, SvgCombine as Combine, SvgCommand as Command, SvgCompass as Compass, SvgComponent as Component, SvgComputer as Computer, SvgConciergeBell as ConciergeBell, SvgCone as Cone, SvgConstruction as Construction, SvgContact as Contact, SvgContactRound as ContactRound, SvgContainer as Container, SvgContrast as Contrast, SvgCookie as Cookie, SvgCookingPot as CookingPot, SvgCopy as Copy, SvgCopyCheck as CopyCheck, SvgCopyMinus as CopyMinus, SvgCopyPlus as CopyPlus, SvgCopyX as CopyX, SvgCopyleft as Copyleft, SvgCopyright as Copyright, SvgCornerDownLeft as CornerDownLeft, SvgCornerDownRight as CornerDownRight, SvgCornerLeftDown as CornerLeftDown, SvgCornerLeftUp as CornerLeftUp, SvgCornerRightDown as CornerRightDown, SvgCornerRightUp as CornerRightUp, SvgCornerUpLeft as CornerUpLeft, SvgCornerUpRight as CornerUpRight, SvgCpu as Cpu, SvgCreativeCommons as CreativeCommons, SvgCreditCard as CreditCard, SvgCroissant as Croissant, SvgCrop as Crop, SvgCross as Cross, SvgCrosshair as Crosshair, SvgCrown as Crown, SvgCuboid as Cuboid, SvgCupSoda as CupSoda, SvgCurrency as Currency, SvgCylinder as Cylinder, SvgDam as Dam, SvgDatabase as Database, SvgDatabaseBackup as DatabaseBackup, SvgDatabaseZap as DatabaseZap, SvgDelete as Delete, SvgDessert as Dessert, SvgDiameter as Diameter, SvgDiamond as Diamond, SvgDiamondMinus as DiamondMinus, SvgDiamondPercent as DiamondPercent, SvgDiamondPlus as DiamondPlus, SvgDice1 as Dice1, SvgDice2 as Dice2, SvgDice3 as Dice3, SvgDice4 as Dice4, SvgDice5 as Dice5, SvgDice6 as Dice6, SvgDices as Dices, SvgDiff as Diff, SvgDisc as Disc, SvgDisc2 as Disc2, SvgDisc3 as Disc3, SvgDiscAlbum as DiscAlbum, SvgDivide as Divide, SvgDna as Dna, SvgDnaOff as DnaOff, SvgDock as Dock, SvgDog as Dog, SvgDollarSign as DollarSign, SvgDonut as Donut, SvgDoorClosed as DoorClosed, SvgDoorOpen as DoorOpen, SvgDot as Dot, SvgDownload as Download, SvgDraftingCompass as DraftingCompass, SvgDrama as Drama, SvgDribbble as Dribbble, SvgDrill as Drill, SvgDroplet as Droplet, SvgDropletOff as DropletOff, SvgDroplets as Droplets, SvgDrum as Drum, SvgDrumstick as Drumstick, SvgDumbbell as Dumbbell, SvgEar as Ear, SvgEarOff as EarOff, SvgEarth as Earth, SvgEarthLock as EarthLock, SvgEclipse as Eclipse, SvgEgg as Egg, SvgEggFried as EggFried, SvgEggOff as EggOff, SvgEllipsis as Ellipsis, SvgEllipsisVertical as EllipsisVertical, SvgEqual as Equal, SvgEqualApproximately as EqualApproximately, SvgEqualNot as EqualNot, SvgEraser as Eraser, SvgEthernetPort as EthernetPort, SvgEuro as Euro, SvgExpand as Expand, SvgExternalLink as ExternalLink, SvgEye as Eye, SvgEyeClosed as EyeClosed, SvgEyeOff as EyeOff, SvgFacebook as Facebook, SvgFactory as Factory, SvgFan as Fan, SvgFastForward as FastForward, SvgFeather as Feather, SvgFence as Fence, SvgFerrisWheel as FerrisWheel, SvgFigma as Figma, SvgFile as File, SvgFileArchive as FileArchive, SvgFileAudio as FileAudio, SvgFileAudio2 as FileAudio2, SvgFileAxis3D as FileAxis3D, SvgFileBadge as FileBadge, SvgFileBadge2 as FileBadge2, SvgFileBox as FileBox, SvgFileChartColumn as FileChartColumn, SvgFileChartColumnIncreasing as FileChartColumnIncreasing, SvgFileChartLine as FileChartLine, SvgFileChartPie as FileChartPie, SvgFileCheck as FileCheck, SvgFileCheck2 as FileCheck2, SvgFileClock as FileClock, SvgFileCode as FileCode, SvgFileCode2 as FileCode2, SvgFileCog as FileCog, SvgFileDiff as FileDiff, SvgFileDigit as FileDigit, SvgFileDown as FileDown, SvgFileHeart as FileHeart, SvgFileImage as FileImage, SvgFileInput as FileInput, SvgFileJson as FileJson, SvgFileJson2 as FileJson2, SvgFileKey as FileKey, SvgFileKey2 as FileKey2, SvgFileLock as FileLock, SvgFileLock2 as FileLock2, SvgFileMinus as FileMinus, SvgFileMinus2 as FileMinus2, SvgFileMusic as FileMusic, SvgFileOutput as FileOutput, SvgFilePen as FilePen, SvgFilePenLine as FilePenLine, SvgFilePlus as FilePlus, SvgFilePlus2 as FilePlus2, SvgFileQuestion as FileQuestion, SvgFileScan as FileScan, SvgFileSearch as FileSearch, SvgFileSearch2 as FileSearch2, SvgFileSliders as FileSliders, SvgFileSpreadsheet as FileSpreadsheet, SvgFileStack as FileStack, SvgFileSymlink as FileSymlink, SvgFileTerminal as FileTerminal, SvgFileText as FileText, SvgFileType as FileType, SvgFileType2 as FileType2, SvgFileUp as FileUp, SvgFileUser as FileUser, SvgFileVideo as FileVideo, SvgFileVideo2 as FileVideo2, SvgFileVolume as FileVolume, SvgFileVolume2 as FileVolume2, SvgFileWarning as FileWarning, SvgFileX as FileX, SvgFileX2 as FileX2, SvgFiles as Files, SvgFilm as Film, SvgFingerprint as Fingerprint, SvgFireExtinguisher as FireExtinguisher, SvgFish as Fish, SvgFishOff as FishOff, SvgFishSymbol as FishSymbol, SvgFlag as Flag, SvgFlagOff as FlagOff, SvgFlagTriangleLeft as FlagTriangleLeft, SvgFlagTriangleRight as FlagTriangleRight, SvgFlame as Flame, SvgFlameKindling as FlameKindling, SvgFlashlight as Flashlight, SvgFlashlightOff as FlashlightOff, SvgFlaskConical as FlaskConical, SvgFlaskConicalOff as FlaskConicalOff, SvgFlaskRound as FlaskRound, SvgFlipHorizontal as FlipHorizontal, SvgFlipHorizontal2 as FlipHorizontal2, SvgFlipVertical as FlipVertical, SvgFlipVertical2 as FlipVertical2, SvgFlower as Flower, SvgFlower2 as Flower2, SvgFocus as Focus, SvgFoldHorizontal as FoldHorizontal, SvgFoldVertical as FoldVertical, SvgFolder as Folder, SvgFolderArchive as FolderArchive, SvgFolderCheck as FolderCheck, SvgFolderClock as FolderClock, SvgFolderClosed as FolderClosed, SvgFolderCode as FolderCode, SvgFolderCog as FolderCog, SvgFolderDot as FolderDot, SvgFolderDown as FolderDown, SvgFolderGit as FolderGit, SvgFolderGit2 as FolderGit2, SvgFolderHeart as FolderHeart, SvgFolderInput as FolderInput, SvgFolderKanban as FolderKanban, SvgFolderKey as FolderKey, SvgFolderLock as FolderLock, SvgFolderMinus as FolderMinus, SvgFolderOpen as FolderOpen, SvgFolderOpenDot as FolderOpenDot, SvgFolderOutput as FolderOutput, SvgFolderPen as FolderPen, SvgFolderPlus as FolderPlus, SvgFolderRoot as FolderRoot, SvgFolderSearch as FolderSearch, SvgFolderSearch2 as FolderSearch2, SvgFolderSymlink as FolderSymlink, SvgFolderSync as FolderSync, SvgFolderTree as FolderTree, SvgFolderUp as FolderUp, SvgFolderX as FolderX, SvgFolders as Folders, SvgGithub as Github, SvgInstagram as Instagram, SvgLink as Link, SvgMoon as Moon, SvgPackageCheck as PackageCheck, SvgPalette as Palette, SvgPickaxe as Pickaxe, SvgScanFace as ScanFace, SvgSearch as Search, SvgSquareMenu as SquareMenu, SvgSun as Sun, SvgSunDim as SunDim, SvgTreeDeciduous as TreeDeciduous, SvgTwitter as Twitter, SvgUsers as Users, SvgYoutube as Youtube };
